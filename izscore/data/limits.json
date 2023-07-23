@@ -1,0 +1,261 @@
+{
+    "KND Training Area (F) (New)": {
+        "epid": 1,
+        "ep_level": 1,
+        "max_score": 777,
+        "max_pods": 14,
+        "max_time": 150
+    },
+    "KND Training Area (F) (Old)": {
+        "epid": 1,
+        "ep_level": 1,
+        "max_score": 649,
+        "max_pods": 14,
+        "max_time": 165
+    },
+    "Pokey Oaks Junior High (F)": {
+        "epid": 2,
+        "ep_level": 2,
+        "max_score": 4542,
+        "max_pods": 38,
+        "max_time": 430
+    },
+    "Mandark's House (F)": {
+        "epid": 3,
+        "ep_level": 2,
+        "max_score": 2611,
+        "max_pods": 26,
+        "max_time": 192
+    },
+    "Delightful Developments (F)": {
+        "epid": 4,
+        "ep_level": 3,
+        "max_score": 7373,
+        "max_pods": 62,
+        "max_time": 590
+    },
+    "Megas' Last Stand (F)": {
+        "epid": 5,
+        "ep_level": 4,
+        "max_score": 12684,
+        "max_pods": 83,
+        "max_time": 982
+    },
+    "Pokey Oaks Junior High": {
+        "epid": 7,
+        "ep_level": 5,
+        "max_score": 11563,
+        "max_pods": 103,
+        "max_time": 647
+    },
+    "Mandark's House": {
+        "epid": 8,
+        "ep_level": 7,
+        "max_score": 7597,
+        "max_pods": 88,
+        "max_time": 507
+    },
+    "Sweet Revenge": {
+        "epid": 9,
+        "ep_level": 7,
+        "max_score": 4463,
+        "max_pods": 53,
+        "max_time": 300
+    },
+    "Delightful Developments": {
+        "epid": 10,
+        "ep_level": 8,
+        "max_score": 7639,
+        "max_pods": 64,
+        "max_time": 425
+    },
+    "Megas' Last Stand (New)": {
+        "epid": 11,
+        "ep_level": 9,
+        "max_score": 15500,
+        "max_pods": 137,
+        "max_time": 1030
+    },
+    "Megas' Last Stand (Old)": {
+        "epid": 11,
+        "ep_level": 9,
+        "max_score": 15158,
+        "max_pods": 137,
+        "max_time": 1030
+    },
+    "The Boneyard": {
+        "epid": 12,
+        "ep_level": 9,
+        "max_score": 19598,
+        "max_pods": 128,
+        "max_time": 1277
+    },
+    "Reactor Works": {
+        "epid": 13,
+        "ep_level": 11,
+        "max_score": 27500,
+        "max_pods": 132,
+        "max_time": 1537
+    },
+    "Charles Darwin Middle School": {
+        "epid": 14,
+        "ep_level": 12,
+        "max_score": 14500,
+        "max_pods": 76,
+        "max_time": 682
+    },
+    "Dizzy World": {
+        "epid": 15,
+        "ep_level": 13,
+        "max_score": 17017,
+        "max_pods": 122,
+        "max_time": 705
+    },
+    "Sunny Bridges Auditorium": {
+        "epid": 16,
+        "ep_level": 14,
+        "max_score": 12711,
+        "max_pods": 97,
+        "max_time": 685
+    },
+    "Jungle Training Area": {
+        "epid": 17,
+        "ep_level": 14,
+        "max_score": 10500,
+        "max_pods": 84,
+        "max_time": 575
+    },
+    "Loch Mess (New)": {
+        "epid": 18,
+        "ep_level": 15,
+        "max_score": 8000,
+        "max_pods": 53,
+        "max_time": 367
+    },
+    "Loch Mess (Old)": {
+        "epid": 18,
+        "ep_level": 15,
+        "max_score": 7647,
+        "max_pods": 53,
+        "max_time": 367
+    },
+    "The Fissure": {
+        "epid": 19,
+        "ep_level": 16,
+        "max_score": 17895,
+        "max_pods": 115,
+        "max_time": 677
+    },
+    "Cutts and Bruises Skate Park": {
+        "epid": 20,
+        "ep_level": 17,
+        "max_score": 9032,
+        "max_pods": 49,
+        "max_time": 347
+    },
+    "Sand Castle (New)": {
+        "epid": 21,
+        "ep_level": 18,
+        "max_score": 27500,
+        "max_pods": 156,
+        "max_time": 1257
+    },
+    "Sand Castle (Old)": {
+        "epid": 21,
+        "ep_level": 18,
+        "max_score": 26775,
+        "max_pods": 156,
+        "max_time": 1257
+    },
+    "Crystalline Caverns": {
+        "epid": 22,
+        "ep_level": 17,
+        "max_score": 11000,
+        "max_pods": 50,
+        "max_time": 702
+    },
+    "Construction Site": {
+        "epid": 23,
+        "ep_level": 19,
+        "max_score": 24941,
+        "max_pods": 81,
+        "max_time": 1082
+    },
+    "Hani-Baba Temple": {
+        "epid": 24,
+        "ep_level": 20,
+        "max_score": 22000,
+        "max_pods": 69,
+        "max_time": 825
+    },
+    "Tyrannical Gardens": {
+        "epid": 25,
+        "ep_level": 21,
+        "max_score": 46758,
+        "max_pods": 123,
+        "max_time": 1590
+    },
+    "Skypad Space Port": {
+        "epid": 26,
+        "ep_level": 24,
+        "max_score": 37098,
+        "max_pods": 220,
+        "max_time": 1750
+    },
+    "Nowhere Triangle": {
+        "epid": 27,
+        "ep_level": 24,
+        "max_score": 25500,
+        "max_pods": 97,
+        "max_time": 640
+    },
+    "The Canopy": {
+        "epid": 28,
+        "ep_level": 25,
+        "max_score": 32706,
+        "max_pods": 75,
+        "max_time": 1167
+    },
+    "Monkey Summit": {
+        "epid": 29,
+        "ep_level": 27,
+        "max_score": 45949,
+        "max_pods": 59,
+        "max_time": 925
+    },
+    "Dinosaur Graveyard (New)": {
+        "epid": 30,
+        "ep_level": 28,
+        "max_score": 20000,
+        "max_pods": 87,
+        "max_time": 587
+    },
+    "Dinosaur Graveyard (Old)": {
+        "epid": 30,
+        "ep_level": 28,
+        "max_score": 19180,
+        "max_pods": 87,
+        "max_time": 587
+    },
+    "Inferno Fields": {
+        "epid": 31,
+        "ep_level": 30,
+        "max_score": 70835,
+        "max_pods": 89,
+        "max_time": 1370
+    },
+    "Dark Tree Clearing": {
+        "epid": 32,
+        "ep_level": 32,
+        "max_score": 66000,
+        "max_pods": 168,
+        "max_time": 1372
+    },
+    "Green Gullet": {
+        "epid": 33,
+        "ep_level": 35,
+        "max_score": 49101,
+        "max_pods": 74,
+        "max_time": 652
+    }
+}

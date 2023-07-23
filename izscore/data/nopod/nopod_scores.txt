@@ -1,0 +1,2459 @@
+Rare Zoomxyre	1	KND Training Area (F)	743
+Angel Uberzen	1	KND Training Area (F)	753
+dmace 39	1	Pokey Oaks Junior High (F)	4542
+e racer joe	1	Mandark's House (F)	2479
+e racer joe	1	Mandark's House (F)	2611
+dmace 39	1	Delightful Developments (F)	7373
+Connor Akuache	1	Megas' Last Stand (F)	12684
+Ursula Zonzen	1	Pokey Oaks Junior High	11511
+e racer joe	1	Pokey Oaks Junior High	11563
+dmace 39	1	Mandark's House	7597
+dmace 39	1	Sweet Revenge	4463
+dmace 39	1	Delightful Developments	7411
+Ursula Zonzen	1	Megas' Last Stand	15500
+Rare Zoomxyre	1	KND Training Area (F)	743
+e racer joe	1	Pokey Oaks Junior High (F)	4542
+e racer joe	1	Mandark's House (F)	2479
+e racer joe	1	Delightful Developments (F)	7373
+e racer joe	1	Megas' Last Stand (F)	12684
+Ursula Zonzen	1	Pokey Oaks Junior High	11511
+Ursula Zonzen	1	Mandark's House	7509
+Ursula Zonzen	1	Sweet Revenge	4448
+Ursula Zonzen	1	Delightful Developments	7376
+Ursula Zonzen	1	Megas' Last Stand	15500
+dmace 39	1	KND Training Area (F)	743
+dmace 39	1	Pokey Oaks Junior High (F)	4542
+e racer joe	1	Mandark's House (F)	2479
+dmace 39	1	Delightful Developments (F)	7373
+dmace 39	1	Megas' Last Stand (F)	12684
+dmace 39	1	Pokey Oaks Junior High	11563
+Ursula Zonzen	1	Mandark's House	7509
+Ursula Zonzen	1	Sweet Revenge	4448
+Ursula Zonzen	1	Delightful Developments	7376
+Ursula Zonzen	1	Megas' Last Stand	15500
+dmace 39	1	KND Training Area (F)	743
+dmace 39	1	Pokey Oaks Junior High (F)	4542
+e racer joe	1	Mandark's House (F)	2611
+dmace 39	1	Delightful Developments (F)	7373
+Connor Akuache	1	Megas' Last Stand (F)	12684
+e racer joe	1	Pokey Oaks Junior High	11563
+Ursula Zonzen	1	Mandark's House	7509
+Ursula Zonzen	1	Sweet Revenge	4448
+Ursula Zonzen	1	Delightful Developments	7376
+Ursula Zonzen	1	Megas' Last Stand	15500
+Angel Uberzen	1	KND Training Area (F)	753
+dmace 39	1	Pokey Oaks Junior High (F)	4542
+e racer joe	1	Mandark's House (F)	2611
+dmace 39	1	Delightful Developments (F)	7373
+Connor Akuache	1	Megas' Last Stand (F)	12684
+e racer joe	1	Pokey Oaks Junior High	11563
+dmace 39	1	Mandark's House	7597
+dmace 39	1	Sweet Revenge	4463
+dmace 39	1	Delightful Developments	7411
+Ursula Zonzen	1	Megas' Last Stand	15500
+Angel Uberzen	1	KND Training Area (F)	753
+dmace 39	1	Pokey Oaks Junior High (F)	4542
+e racer joe	1	Mandark's House (F)	2611
+dmace 39	1	Delightful Developments (F)	7373
+Connor Akuache	1	Megas' Last Stand (F)	12684
+e racer joe	1	Pokey Oaks Junior High	11563
+dmace 39	1	Mandark's House	7597
+dmace 39	1	Sweet Revenge	4463
+dmace 39	1	Delightful Developments	7411
+Ursula Zonzen	1	Megas' Last Stand	15500
+Eddy Fireatomic	1	KND Training Area (F)	773
+dmace 39	1	Pokey Oaks Junior High (F)	4542
+e racer joe	1	Mandark's House (F)	2611
+Zippy Zoomshoes	1	Delightful Developments (F)	7373
+Zippy Zoomshoes	1	Megas' Last Stand (F)	12684
+e racer joe	1	Pokey Oaks Junior High	11563
+dmace 39	1	Mandark's House	7597
+dmace 39	1	Sweet Revenge	4463
+e racer joe	1	Delightful Developments	7587
+Ursula Zonzen	1	Megas' Last Stand	15500
+Luther Fallangel	1	KND Training Area (F)	777
+Luther Fallangel	1	Pokey Oaks Junior High (F)	4542
+Connor Akuache	1	Mandark's House (F)	2611
+Luther Fallangel	1	Delightful Developments (F)	7373
+Luther Fallangel	1	Megas' Last Stand (F)	12684
+e racer joe	1	Pokey Oaks Junior High	11563
+Connor Akuache	1	Mandark's House	7597
+e racer joe	1	Sweet Revenge	4463
+e racer joe	1	Delightful Developments	7587
+Connor Akuache	1	Megas' Last Stand	15500
+Luther Fallangel	1	KND Training Area (F)	777
+Luther Fallangel	1	Pokey Oaks Junior High (F)	4542
+Connor Akuache	1	Mandark's House (F)	2611
+Luther Fallangel	1	Delightful Developments (F)	7373
+Luther Fallangel	1	Megas' Last Stand (F)	12684
+e racer joe	1	Pokey Oaks Junior High	11563
+Connor Akuache	1	Mandark's House	7597
+e racer joe	1	Sweet Revenge	4463
+e racer joe	1	Delightful Developments	7587
+Connor Akuache	1	Megas' Last Stand	15500
+Connor Akuache	1	The Boneyard	19598
+Connor Akuache	1	Reactor Works	27500
+e racer joe	1	Charles Darwin Middle School	14500
+dmace 39	1	Dizzy World	17017
+dmace 39	1	Sunny Bridges Auditorium	12711
+dmace 39	1	Jungle Training Area	10500
+Ursula Zonzen	1	Loch Mess	7926
+e racer joe	1	The Fissure	17632
+Zippy Zoomshoes	1	Cutts and Bruises Skate Park	9032
+dmace 39	1	Sand Castle	27105
+Connor Akuache	1	The Boneyard	19598
+Connor Akuache	1	Reactor Works	27500
+e racer joe	1	Charles Darwin Middle School	14500
+dmace 39	1	Dizzy World	17017
+dmace 39	1	Sunny Bridges Auditorium	12711
+dmace 39	1	Jungle Training Area	10500
+Ursula Zonzen	1	Loch Mess	7926
+e racer joe	1	The Fissure	17632
+Zippy Zoomshoes	1	Cutts and Bruises Skate Park	9032
+dmace 39	1	Sand Castle	27105
+Ursula Zonzen	1	The Boneyard	19598
+Connor Akuache	1	Reactor Works	27500
+e racer joe	1	Charles Darwin Middle School	14500
+dmace 39	1	Dizzy World	17017
+dmace 39	1	Sunny Bridges Auditorium	12711
+dmace 39	1	Jungle Training Area	10500
+Ursula Zonzen	1	Loch Mess	7926
+Ursula Zonzen	1	The Fissure	17271
+Zippy Zoomshoes	1	Cutts and Bruises Skate Park	9032
+dmace 39	1	Sand Castle	27105
+Ursula Zonzen	1	The Boneyard	19598
+Connor Akuache	1	Reactor Works	27500
+Ursula Zonzen	1	Charles Darwin Middle School	14485
+dmace 39	1	Dizzy World	16752
+dmace 39	1	Sunny Bridges Auditorium	12711
+dmace 39	1	Jungle Training Area	10500
+dmace 39	1	Loch Mess	7883
+dmace 39	1	The Fissure	16968
+Zippy Zoomshoes	1	Cutts and Bruises Skate Park	9032
+dmace 39	1	Sand Castle	27105
+Ursula Zonzen	1	The Boneyard	19598
+Ursula Zonzen	1	Reactor Works	27500
+Ursula Zonzen	1	Charles Darwin Middle School	14485
+Ursula Zonzen	1	Dizzy World	16657
+dmace 39	1	Sunny Bridges Auditorium	12711
+dmace 39	1	Jungle Training Area	10500
+Ursula Zonzen	1	Loch Mess	7840
+dmace 39	1	The Fissure	16968
+Zippy Zoomshoes	1	Cutts and Bruises Skate Park	9032
+dmace 39	1	Sand Castle	27105
+Ursula Zonzen	1	The Boneyard	19598
+Ursula Zonzen	1	Reactor Works	27500
+Ursula Zonzen	1	Charles Darwin Middle School	14485
+Ursula Zonzen	1	Dizzy World	16657
+dmace 39	1	Sunny Bridges Auditorium	12711
+dmace 39	1	Jungle Training Area	10500
+Ursula Zonzen	1	Loch Mess	7840
+Ursula Zonzen	1	The Fissure	16571
+Zippy Zoomshoes	1	Cutts and Bruises Skate Park	9032
+Zippy Zoomshoes	1	Sand Castle	26775
+Ursula Zonzen	1	The Boneyard	19598
+Ursula Zonzen	1	Reactor Works	27500
+Ursula Zonzen	1	Charles Darwin Middle School	14485
+Ursula Zonzen	1	Dizzy World	16657
+dmace 39	1	Sunny Bridges Auditorium	12711
+dmace 39	1	Jungle Training Area	10500
+Ursula Zonzen	1	Loch Mess	7840
+Ursula Zonzen	1	The Fissure	16571
+Zippy Zoomshoes	1	Cutts and Bruises Skate Park	9032
+Zippy Zoomshoes	1	Sand Castle	26775
+Ursula Zonzen	1	The Boneyard	19598
+Ursula Zonzen	1	Reactor Works	27500
+Ursula Zonzen	1	Charles Darwin Middle School	14485
+Ursula Zonzen	1	Dizzy World	16657
+dmace 39	1	Sunny Bridges Auditorium	12711
+dmace 39	1	Jungle Training Area	10500
+Ursula Zonzen	1	Loch Mess	7840
+Ursula Zonzen	1	The Fissure	16571
+Zippy Zoomshoes	1	Cutts and Bruises Skate Park	9032
+Zippy Zoomshoes	1	Sand Castle	26775
+dmace 39	1	Crystalline Caverns	11000
+Ursula Zonzen	1	Construction Site	24941
+dmace 39	1	Hani-Baba Temple	22000
+Ursula Zonzen	1	Tyrannical Gardens	46758
+Ursula Zonzen	1	Skypad Space Port	37098
+dmace 39	1	Nowhere Triangle	25415
+Ursula Zonzen	1	The Canopy	32662
+Ursula Zonzen	1	Monkey Skypad	37198
+dmace 39	1	Dinosaur Graveyard	20000
+Ursula Zonzen	1	Inferno Fields	70835
+dmace 39	1	Crystalline Caverns	11000
+Ursula Zonzen	1	Construction Site	24941
+Connor Akuache	1	Hani-Baba Temple	22000
+Ursula Zonzen	1	Tyrannical Gardens	46758
+Ursula Zonzen	1	Skypad Space Port	37098
+Ursula Zonzen	1	Nowhere Triangle	25500
+Ursula Zonzen	1	The Canopy	32662
+Ursula Zonzen	1	Monkey Skypad	37198
+Ursula Zonzen	1	Dinosaur Graveyard	20000
+Ursula Zonzen	1	Inferno Fields	70835
+Dark Blofis	1	Crystalline Caverns	11000
+Ursula Zonzen	1	Construction Site	24941
+Connor Akuache	1	Hani-Baba Temple	22000
+Ursula Zonzen	1	Tyrannical Gardens	46758
+Ursula Zonzen	1	Skypad Space Port	37098
+Ursula Zonzen	1	Nowhere Triangle	25500
+Ursula Zonzen	1	The Canopy	32662
+Ursula Zonzen	1	Monkey Skypad	37198
+Ursula Zonzen	1	Dinosaur Graveyard	20000
+Ursula Zonzen	1	Inferno Fields	70835
+Dark Blofis	1	Crystalline Caverns	11000
+Ursula Zonzen	1	Construction Site	24941
+Connor Akuache	1	Hani-Baba Temple	22000
+Ursula Zonzen	1	Tyrannical Gardens	46758
+Ursula Zonzen	1	Skypad Space Port	37098
+Ursula Zonzen	1	Nowhere Triangle	25500
+Ursula Zonzen	1	The Canopy	32662
+dmace 39	1	Monkey Skypad	40272
+Ursula Zonzen	1	Dinosaur Graveyard	20000
+Ursula Zonzen	1	Inferno Fields	70835
+Dark Blofis	1	Crystalline Caverns	11000
+Connor Akuache	1	Construction Site	24941
+Connor Akuache	1	Hani-Baba Temple	22000
+Connor Akuache	1	Tyrannical Gardens	46758
+Connor Akuache	1	Skypad Space Port	37098
+Ursula Zonzen	1	Nowhere Triangle	25500
+dmace 39	1	The Canopy	32706
+dmace 39	1	Monkey Skypad	40272
+Ursula Zonzen	1	Dinosaur Graveyard	20000
+Connor Akuache	1	Inferno Fields	70835
+Dark Blofis	1	Crystalline Caverns	11000
+Connor Akuache	1	Construction Site	24941
+e racer joe	1	Hani-Baba Temple	22000
+Connor Akuache	1	Tyrannical Gardens	46758
+Angel The Amused	1	Skypad Space Port	37098
+e racer joe	1	Nowhere Triangle	25500
+dmace 39	1	The Canopy	32706
+dmace 39	1	Monkey Skypad	40272
+Ursula Zonzen	1	Dinosaur Graveyard	20000
+Connor Akuache	1	Inferno Fields	70835
+Dark Blofis	1	Crystalline Caverns	11000
+Connor Akuache	1	Construction Site	24941
+e racer joe	1	Hani-Baba Temple	22000
+Connor Akuache	1	Tyrannical Gardens	46758
+Angel The Amused	1	Skypad Space Port	37098
+Liberty Wiltgym	1	Nowhere Triangle	25500
+dmace 39	1	The Canopy	32706
+dmace 39	1	Monkey Skypad	40272
+May Knightheart	1	Dinosaur Graveyard	20000
+Mega Swiftwater	1	Inferno Fields	70835
+Dark Blofis	1	Crystalline Caverns	11000
+Connor Akuache	1	Construction Site	24941
+Mega Swiftracer	1	Hani-Baba Temple	22000
+Connor Akuache	1	Tyrannical Gardens	46758
+Giant Moosethorne	1	Skypad Space Port	37098
+Liberty Wiltgym	1	Nowhere Triangle	25500
+Admiral Captainamused	1	The Canopy	32706
+dmace 39	1	Monkey Skypad	40272
+Eddy Akuache	1	Dinosaur Graveyard	20000
+Mega Swiftwater	1	Inferno Fields	70835
+Rex1000 sheerin	1	Dark Tree Clearing	66000
+Eddy The Jackson	1	Green Gullet	49101
+Rex1000 sheerin	1	Dark Tree Clearing	66000
+Connor Akuache	1	Green Gullet	49101
+e racer joe	1	Dark Tree Clearing	66000
+kite otsuka	1	Green Gullet	49101
+Ursula Zonzen	1	Dark Tree Clearing	66000
+kite otsuka	1	Green Gullet	49101
+Ursula Zonzen	1	Dark Tree Clearing	66000
+kite otsuka	1	Green Gullet	49101
+Ursula Zonzen	1	Dark Tree Clearing	66000
+e racer joe	1	Green Gullet	49101
+Ace Rubyhawk	1	KND Training Area (F)	695
+Dazz FreeZe	1	Pokey Oaks Junior High (F)	4041
+Captain Zoomshoes	1	Mandark's House (F)	2089
+Captain Zoomshoes	1	Delightful Developments (F)	6383
+Unduli Picaratu	1	Megas' Last Stand (F)	12644
+Baron Quickranger	1	Pokey Oaks Junior High	7568
+Atomic Zonzen	1	Mandark's House	4615
+destroye ice blade	1	Sweet Revenge	4092
+Agent Soundcap	1	Delightful Developments	5369
+Mega Swiftwater	1	Megas' Last Stand	10593
+Nitro e Racer	1	KND Training Area (F)	704
+Arcane Wonderstar	1	Pokey Oaks Junior High (F)	3926
+Arcane Wonderstar	1	Mandark's House (F)	2159
+Bailey Auburn	1	Delightful Developments (F)	6809
+Eddy Zerodweller	1	Megas' Last Stand (F)	8191
+Titan Rufffox	1	Pokey Oaks Junior High	8516
+Wilt Zeroarm	1	Mandark's House	5013
+Ace Tinybullet	1	Sweet Revenge	2970
+Ace Tinybullet	1	Delightful Developments	5349
+Dazz FreeZe	1	Megas' Last Stand	14851
+Justine Favehand	1	KND Training Area (F)	699
+Warlock Betaxylon	1	Pokey Oaks Junior High (F)	3542
+Tycho Crocbreach	1	Mandark's House (F)	2259
+Darius Thunderarrow	1	Delightful Developments (F)	5836
+Darius Thunderarrow	1	Megas' Last Stand (F)	7871
+Atomic Swiftblaze	1	Pokey Oaks Junior High	10459
+Astro Willowzeta	1	Mandark's House	4625
+Atomic Swiftblaze	1	Sweet Revenge	3678
+El Dragonblade	1	Delightful Developments	4809
+Iron Bladedancer	1	Megas' Last Stand	12000
+Ultra Shadowprincess	1	KND Training Area (F)	714
+Violet Soulsteel	1	Pokey Oaks Junior High (F)	3747
+Violet Soulsteel	1	Mandark's House (F)	2017
+Violet Soulsteel	1	Delightful Developments (F)	6226
+Violet Soulsteel	1	Megas' Last Stand (F)	8530
+Vlad Cometclaw	1	Pokey Oaks Junior High	7128
+Nigel Ofuno	1	Mandark's House	4455
+Carey Conmare	1	Sweet Revenge	2883
+Cyril Tinyblazer	1	Delightful Developments	5086
+Lorelei Wonderzap	1	Megas' Last Stand	13635
+Ace Tinybullet	1	KND Training Area (F)	714
+Lunar Starlight	1	Pokey Oaks Junior High (F)	4542
+Lunar Starlight	1	Mandark's House (F)	2611
+Lunar Starlight	1	Delightful Developments (F)	7373
+Brooks Apollocommando	1	Megas' Last Stand (F)	12684
+Lazlo Birdblast	1	Pokey Oaks Junior High	6259
+Samuru sensless	1	Mandark's House	4588
+Star Byte	1	Sweet Revenge	2702
+Race Kimchiracer	1	Delightful Developments	5063
+e racer joe	1	Megas' Last Stand	14313
+Freaky Supersamurai	1	KND Training Area (F)	743
+Ace Armorfoster	1	Pokey Oaks Junior High (F)	3725
+Little Havokjunior	1	Mandark's House (F)	2284
+Luther Fallangel	1	Delightful Developments (F)	7373
+Ace Armorfoster	1	Megas' Last Stand (F)	11133
+Specter Iceair	1	Pokey Oaks Junior High	8455
+Lord Flamewave	1	Mandark's House	4329
+Jules Sadjaw	1	Sweet Revenge	2059
+Blexus reeder	1	Delightful Developments	4863
+Alpha Evilkid	1	Megas' Last Stand	12588
+Agent Tartakovsky	1	KND Training Area (F)	49
+Ranger Greg	1	Pokey Oaks Junior High (F)	49
+Ranger Bob	1	Mandark's House (F)	49
+Ranger Jason	1	Delightful Developments (F)	49
+Ranger Ronit	1	Megas' Last Stand (F)	49
+Giant Moosethorne	1	Pokey Oaks Junior High	11388
+Harris Boomrastafar	1	Mandark's House	6040
+Viola Rivetyoink	1	Sweet Revenge	3094
+Giant Moosethorne	1	Delightful Developments	6604
+Cade Punkfancy	1	Megas' Last Stand	12599
+Ranger Danny	1	KND Training Area (F)	49
+Agent Wasson	1	Pokey Oaks Junior High (F)	49
+Ranger Tyler	1	Mandark's House (F)	49
+Ranger Sue	1	Delightful Developments (F)	49
+Agent Winick	1	Megas' Last Stand (F)	49
+Harris Boomrastafar	1	Pokey Oaks Junior High	10922
+Max Angelmage	1	Mandark's House	4344
+Brave Starfire	1	Sweet Revenge	2417
+Dread Last	1	Delightful Developments	5346
+Cade Punkfancy	1	Megas' Last Stand	12599
+Zora Acornvilgax	1	KND Training Area (F)	659
+Ezekiel Gianthawkins	1	Pokey Oaks Junior High (F)	2578
+Phineas Zincyoink	1	Mandark's House (F)	1407
+Young Foxblade	1	Delightful Developments (F)	3806
+Young Foxblade	1	Megas' Last Stand (F)	6136
+Kane Shadowdad	1	Pokey Oaks Junior High	5726
+maximo bladeshadow	1	Mandark's House	4123
+Race Roboox	1	Sweet Revenge	3593
+Race Roboox	1	Delightful Developments	6636
+Race Roboox	1	Megas' Last Stand	13688
+Ed Stealdaring	1	KND Training Area (F)	686
+Agent Angrysun	1	Pokey Oaks Junior High (F)	3446
+Poet Westeon	1	Mandark's House (F)	1941
+Pistol Arcochampion	1	Delightful Developments (F)	5954
+Jake Gold Vilgax	1	Megas' Last Stand (F)	11346
+Lazlo Birdblast	1	Pokey Oaks Junior High	6259
+Rex Spiderbronze	1	Mandark's House	4041
+Knuckles Sunfoster	1	Sweet Revenge	2378
+Race Kimchiracer	1	Delightful Developments	5063
+Agent Wisequark	1	Megas' Last Stand	13697
+Ultra Shadowprincess	1	KND Training Area (F)	714
+Violet Soulsteel	1	Pokey Oaks Junior High (F)	3305
+Violet Soulsteel	1	Mandark's House (F)	2017
+Violet Soulsteel	1	Delightful Developments (F)	6226
+Violet Soulsteel	1	Megas' Last Stand (F)	8530
+Vlad Cometclaw	1	Pokey Oaks Junior High	7128
+Slash Iciclemaker	1	Mandark's House	4147
+Carey Conmare	1	Sweet Revenge	2883
+Cyril Tinyblazer	1	Delightful Developments	5086
+Ed Stealvilgax	1	Megas' Last Stand	12888
+Justine Favehand	1	KND Training Area (F)	686
+Emmy Nikkisky	1	Pokey Oaks Junior High (F)	3317
+Tycho Crocbreach	1	Mandark's House (F)	2259
+August Xyrewoods	1	Delightful Developments (F)	4983
+Wild Kenarrow	1	Megas' Last Stand (F)	7385
+Atomic Swiftblaze	1	Pokey Oaks Junior High	10459
+Astro Willowzeta	1	Mandark's House	4625
+Atomic Swiftblaze	1	Sweet Revenge	3678
+El Dragonblade	1	Delightful Developments	4809
+Spike Phantomfallen	1	Megas' Last Stand	11862
+Nitro e Racer	1	KND Training Area (F)	704
+Arcane Wonderstar	1	Pokey Oaks Junior High (F)	3926
+Arcane Wonderstar	1	Mandark's House (F)	2159
+Bailey Auburn	1	Delightful Developments (F)	6809
+Eddy Zerodweller	1	Megas' Last Stand (F)	8191
+Titan Rufffox	1	Pokey Oaks Junior High	8516
+Wilt Zeroarm	1	Mandark's House	5013
+Ace Tinybullet	1	Sweet Revenge	2970
+Ace Tinybullet	1	Delightful Developments	5349
+Dazz FreeZe	1	Megas' Last Stand	14851
+Eagle Aerobullet	1	KND Training Area (F)	663
+Turbo Plasma	1	Pokey Oaks Junior High (F)	3610
+Slim Assistman	1	Mandark's House (F)	1985
+Captain Zoomshoes	1	Delightful Developments (F)	6383
+Angel Bladechill	1	Megas' Last Stand (F)	11572
+Baron Quickranger	1	Pokey Oaks Junior High	7568
+Little Crimsonauburn	1	Mandark's House	4500
+Awesome Candlerex	1	Sweet Revenge	1824
+Mega Swiftwater	1	Delightful Developments	4855
+Mega Swiftwater	1	Megas' Last Stand	10593
+basil kilanio	1	KND Training Area (F)	690
+Lt. Luckyboots	1	Pokey Oaks Junior High (F)	3577
+Lady Sugarprincess	1	Mandark's House (F)	1912
+Leonardo Duchen22	1	Delightful Developments (F)	6100
+LOSER 4	1	Megas' Last Stand (F)	10887
+dmace 39	1	Pokey Oaks Junior High	11248
+Wilt Zeroarm	1	Mandark's House	4623
+Zeke Taleblaze	1	Sweet Revenge	1899
+Ben Snakeyoink	1	Delightful Developments	3973
+Number 7524	1	Megas' Last Stand	10959
+basil kilanio	1	KND Training Area (F)	690
+Lt. Luckyboots	1	Pokey Oaks Junior High (F)	3577
+Agent Busterfury	1	Mandark's House (F)	1873
+Ben Windmaggot	1	Delightful Developments (F)	5865
+Kaio Dragon	1	Megas' Last Stand (F)	8929
+e racer joe	1	Pokey Oaks Junior High	11127
+Iron Nuclearalien	1	Mandark's House	4085
+Agent Jellyboy	1	Sweet Revenge	1866
+Bradley Bladeabyss	1	Delightful Developments	3264
+Number 7524	1	Megas' Last Stand	10959
+Zora Acornvilgax	1	KND Training Area (F)	659
+Ezekiel Gianthawkins	1	Pokey Oaks Junior High (F)	2578
+Phineas Zincyoink	1	Mandark's House (F)	1407
+Young Foxblade	1	Delightful Developments (F)	3806
+Young Foxblade	1	Megas' Last Stand (F)	6136
+Kane Shadowdad	1	Pokey Oaks Junior High	5726
+maximo bladeshadow	1	Mandark's House	4123
+Race Roboox	1	Sweet Revenge	3593
+Race Roboox	1	Delightful Developments	6636
+Race Roboox	1	Megas' Last Stand	13688
+
+KND Training Area (F)
+Leif Kipperantibody	1	616
+Bran The Wizard	2	612
+Nat Armorangel	3	601
+Apollo Hero	4	596
+Ben Snowfox	5	558
+Merlin Zombieire	6	554
+Cade Vilgaxcommando	6	554
+Lily Ablealien	7	540
+Flash Deeboots	8	519
+Oscar Vitalysharp	8	519
+Dread Pavelstop	1	654
+Lord Phantomsoul	2	604
+Good Flyercub	3	533
+Rex Havokbot	4	522
+Dexter Wolfblade	5	498
+Lady Keepersonata	6	485
+Kaboom Mechadrool	7	473
+Sugar Fromplasma	8	472
+Alastair Briarvalancy	9	457
+Doctor Moonwalker	10	445
+Rare Zoomxyre	1	743
+dmace 39	1	743
+e racer joe	1	743
+Corin Zonzen	2	738
+Nitro e Racer	3	733
+Hydro Freezeracer	3	733
+Holiday Hero II	4	728
+Unduli Picaratu	5	723
+Zombie Dragon Hawk	5	723
+Lt. Chaosblaze	5	723
+Rare Zoomxyre	1	743
+Corin Zonzen	2	738
+e racer joe	2	738
+Nitro e Racer	3	728
+Holiday Hero II	3	728
+Lt. Chaosblaze	4	723
+Trisha FallenAngel	4	723
+dmace 40	5	714
+Dips Tips	5	714
+zoom zipzen	6	709
+Rare Zoomxyre	1	743
+e racer joe	1	743
+dmace 39	1	743
+Corin Zonzen	2	738
+Nitro e Racer	3	733
+Hydro Freezeracer	3	733
+Ace Axeracer	4	728
+Holiday Hero II	4	728
+Champ Dragonfighter	5	723
+Zombie Dragon Hawk	5	723
+Angel Uberzen	1	753
+Rare Zoomxyre	2	743
+dmace 39	2	743
+e racer joe	2	743
+Corin Zonzen	3	738
+Nitro e Racer	4	733
+Hydro Freezeracer	4	733
+Holiday Hero II	5	728
+Ace Axeracer	5	728
+Champ Dragonfighter	6	723
+Angel Uberzen	1	753
+Rare Zoomxyre	2	743
+dmace 39	2	743
+e racer joe	2	743
+Nitro e Racer	3	738
+Corin Zonzen	3	738
+Hydro Freezeracer	4	733
+Holiday Hero II	5	728
+Ace Axeracer	5	728
+Champ Dragonfighter	6	723
+Eddy Fireatomic	1	773
+Angel Uberzen	2	753
+e racer joe	3	748
+dmace 39	4	743
+Rare Zoomxyre	4	743
+Nitro e Racer	5	738
+Fusion Soulsteel	5	738
+Zippy Zoomshoes	5	738
+Corin Zonzen	5	738
+Admiral Boomwaters	6	733
+Luther Fallangel	1	777
+Eddy Fireatomic	2	773
+Anton Charmfly	3	768
+Steel Fusionaura	4	758
+Angel Uberzen	5	753
+Freaky Supersamurai	6	748
+e racer joe	6	748
+Famous Fireghost	7	743
+Rare Zoomxyre	7	743
+Hydro Fusionaura	7	743
+Luther Fallangel	1	777
+Eddy Fireatomic	2	773
+Anton Charmfly	3	768
+Steel Fusionaura	4	758
+Angel Uberzen	5	753
+Freaky Supersamurai	6	748
+e racer joe	6	748
+Famous Fireghost	7	743
+Rare Zoomxyre	7	743
+Hydro Fusionaura	7	743
+
+Pokey Oaks Junior High (F)
+Luther Fallangel	1	4542
+dmace 39	1	4542
+Hydro Freezeracer	1	4542
+Connor Akuache	1	4542
+Zippy Zoomshoes	1	4542
+e racer joe	1	4542
+Corin Zonzen	1	4542
+Eddy Fireatomic	1	4542
+Lunar Starlight	1	4542
+Fusion Soulsteel	1	4542
+e racer joe	1	4542
+Corin Zonzen	1	4542
+RAMBO RIFLE	2	4472
+Zoom ODoom	3	4430
+Rare Zoomxyre	4	4379
+LOSER 4	5	4318
+Unduli Picaratu	6	4278
+dmace 40	7	4268
+The Aerozeta	8	4056
+Dips Tips	9	4027
+
+Mandark's House (F)
+e racer joe	1	2479
+Corin Zonzen	2	2468
+Hector Crocbreach	3	2343
+Rare Zoomxyre	4	2307
+Ward Vitalysoul	5	2295
+Kaspar Spoiledgravy	6	2286
+IRON MUNCHKIN	7	2271
+Ben Windmaggot	8	2249
+Ranger Star	9	2236
+Rose Hypersteel	10	2226
+e racer joe	1	2479
+Corin Zonzen	2	2468
+Hector Crocbreach	3	2343
+Rare Zoomxyre	4	2307
+Ward Vitalysoul	5	2295
+Kaspar Spoiledgravy	6	2286
+Leonardo Duchen22	7	2284
+IRON MUNCHKIN	8	2271
+Ben Windmaggot	9	2249
+Ranger Star	10	2236
+e racer joe	1	2479
+Corin Zonzen	2	2468
+Hector Crocbreach	3	2343
+Rare Zoomxyre	4	2307
+Ward Vitalysoul	5	2295
+Kaspar Spoiledgravy	6	2286
+Leonardo Duchen22	7	2284
+IRON MUNCHKIN	8	2271
+Ben Windmaggot	9	2249
+Ranger Star	10	2236
+e racer joe	1	2611
+Connor Akuache	2	2572
+Corin Zonzen	3	2468
+Nitro e Racer	4	2428
+Hector Crocbreach	5	2343
+Rare Zoomxyre	6	2307
+Ward Vitalysoul	7	2295
+Kaspar Spoiledgravy	8	2286
+Leonardo Duchen22	9	2284
+IRON MUNCHKIN	10	2271
+
+Delightful Developments (F)
+e racer joe	1	7373
+Corin Zonzen	2	7309
+dmace 40	3	7211
+Dazz FreeZe	4	7006
+REDNAX Sierra	5	6924
+Dips Tips	6	6715
+unknown known	7	6693
+player 31452464454587	8	6670
+Bloo super doop	9	6411
+Yahoo Wolfshadow	10	6356
+dmace 39	1	7373
+Corin Zonzen	1	7373
+Dazz FreeZe	1	7373
+Nitro e Racer	1	7373
+e racer joe	1	7373
+dmace 40	2	7211
+Hydro Freezeracer	3	7181
+Hydro Flareabyss	4	7066
+Agent Soundcap	5	6947
+REDNAX Sierra	6	6924
+dmace 39	1	7373
+Corin Zonzen	1	7373
+Connor Akuache	1	7373
+Dazz FreeZe	1	7373
+Nitro e Racer	1	7373
+e racer joe	1	7373
+dmace 40	2	7211
+Hydro Freezeracer	3	7181
+Nova Duskglory	4	7150
+Ace Axeracer	5	7145
+dmace 39	1	7373
+Corin Zonzen	1	7373
+Connor Akuache	1	7373
+Dazz FreeZe	1	7373
+Nitro e Racer	1	7373
+e racer joe	1	7373
+dmace 40	2	7211
+Hydro Freezeracer	3	7181
+Nova Duskglory	4	7150
+Ace Axeracer	5	7145
+Zippy Zoomshoes	1	7373
+Fusion Soulsteel	1	7373
+dmace 39	1	7373
+Corin Zonzen	1	7373
+Connor Akuache	1	7373
+Admiral Boomwaters	1	7373
+Dazz FreeZe	1	7373
+Lunar Starlight	1	7373
+Eddy Fireatomic	1	7373
+Anton Charmfly	1	7373
+
+Megas' Last Stand (F)
+Connor Akuache	1	12684
+dmace 39	1	12684
+e racer joe	1	12684
+Dazz FreeZe	1	12684
+Unduli Picaratu	1	12684
+Hydro Freezeracer	1	12684
+Nitro e Racer	2	12651
+Ace Spencerphoton	3	12364
+Ace Axeracer	4	12295
+Nova Duskglory	5	12145
+e racer joe	1	12684
+Unduli Picaratu	2	12534
+Nitro e Racer	3	12389
+Corin Zonzen	4	12145
+Watson Darry	5	12115
+Dips Tips	6	11858
+Dazz FreeZe	7	11846
+Ward Vitalysoul	8	11726
+Ranger Star	9	11501
+Major Magicjack	10	11385
+Ursula Zonzen	1	11511
+dmace 39	2	11248
+Zippy Zoomshoes	3	11144
+e racer joe	4	11127
+Trent Gilligan	5	9518
+Dark Blofis	6	9089
+Zippy Zoomsocks	7	8920
+destroye ice blade	8	8855
+LD Zero	9	8838
+Brave Tomatoboy	10	8174
+
+Pokey Oaks Junior High
+e racer joe	1	11563
+dmace 39	1	11563
+Ursula Zonzen	2	11511
+Giant Moosethorne	3	11388
+Harris Boomrastafar	4	11370
+Hydro Freezeracer	5	11230
+Zippy Zoomshoes	6	11144
+Atomic Swiftblaze	7	10459
+Race Kimchiracer	8	10283
+Soul Silverlight	9	10204
+e racer joe	1	11563
+dmace 39	1	11563
+Ursula Zonzen	2	11511
+Hydro Freezeracer	3	11230
+Zippy Zoomshoes	4	11144
+Atomic Swiftblaze	5	10459
+Race Kimchiracer	6	10283
+Soul Silverlight	7	10204
+Fusion Soulsteel	8	10094
+Ace Spencerphoton	9	10063
+e racer joe	1	11563
+dmace 39	1	11563
+Ursula Zonzen	2	11511
+Hydro Freezeracer	3	11230
+Zippy Zoomshoes	4	11144
+Atomic Swiftblaze	5	10459
+Race Kimchiracer	6	10283
+Soul Silverlight	7	10204
+Ace Spencerphoton	8	10063
+Titan Rufffox	9	9970
+e racer joe	1	11563
+dmace 39	1	11563
+Ursula Zonzen	2	11511
+Hydro Freezeracer	3	11230
+Zippy Zoomshoes	4	11144
+Atomic Swiftblaze	5	10459
+Soul Silverlight	6	10204
+Ace Spencerphoton	7	10063
+Titan Rufffox	8	9970
+Race Kimchiracer	9	9794
+e racer joe	1	11563
+dmace 39	1	11563
+Ursula Zonzen	2	11511
+Hydro Freezeracer	3	11230
+Zippy Zoomshoes	4	11144
+Trent Gilligan	5	9518
+Xendyl Arius	6	9172
+Dark Blofis	7	9089
+Zippy Zoomsocks	8	8920
+destroye ice blade	9	8855
+e racer joe	1	11563
+dmace 39	1	11563
+Ursula Zonzen	2	11511
+Hydro Freezeracer	3	11230
+Zippy Zoomshoes	4	11144
+Trent Gilligan	5	9518
+Dark Blofis	6	9089
+Zippy Zoomsocks	7	8920
+destroye ice blade	8	8855
+LD Zero	9	8838
+
+Mandark's House
+Ursula Zonzen	1	7509
+Zippy Zoomshoes	2	7465
+dmace 39	3	7319
+destroye ice blade	4	6611
+LD Zero	5	5950
+Dark Blofis	6	5667
+Jehuty Zero	7	5642
+Speed Cometangel	8	5381
+Ace Nightsword	9	5234
+Sintdose Indpen	10	5085
+Ursula Zonzen	1	7509
+Zippy Zoomshoes	2	7465
+dmace 39	3	7421
+destroye ice blade	4	6611
+LD Zero	5	5950
+Great Iron Hawk	6	5893
+Dark Blofis	7	5667
+Jehuty Zero	8	5642
+Sintdose Indpen	9	5467
+Speed Cometangel	10	5381
+Ursula Zonzen	1	7509
+Zippy Zoomshoes	2	7465
+dmace 39	3	7421
+destroye ice blade	4	6611
+Connor Akuache	5	6286
+LD Zero	6	5950
+Great Iron Hawk	7	5893
+Dark Blofis	8	5667
+Jehuty Zero	9	5642
+Sintdose Indpen	10	5467
+
+Sweet Revenge
+Ursula Zonzen	1	4448
+Zippy Zoomshoes	2	4419
+dmace 39	3	4331
+Dark Blofis	4	4177
+Ace Nightsword	5	3998
+Trent Gilligan	6	3816
+Apple Angelvenus	7	3653
+Brave Tomatoboy	8	3594
+Zippy Zoomsocks	9	3593
+Adamanta flame	10	3582
+Ursula Zonzen	1	4448
+Zippy Zoomshoes	2	4419
+dmace 39	3	4331
+Dark Blofis	4	4177
+destroye ice blade	5	4092
+Ace Nightsword	6	3998
+Trent Gilligan	7	3816
+Apple Angelvenus	8	3653
+Melody Knightheart	9	3605
+Brave Tomatoboy	10	3594
+dmace 39	1	4463
+Ursula Zonzen	2	4448
+Zippy Zoomshoes	3	4419
+Dark Blofis	4	4177
+Soul Silverlight	5	4105
+destroye ice blade	6	4092
+Ace Nightsword	7	3998
+Trent Gilligan	8	3816
+Race Kimchiracer	9	3777
+Mega Lancelot	10	3740
+dmace 39	1	4463
+Ursula Zonzen	2	4448
+Zippy Zoomshoes	3	4419
+Dark Blofis	4	4177
+Soul Silverlight	5	4105
+destroye ice blade	6	4092
+Race Kimchiracer	7	4010
+Ace Nightsword	8	3998
+Atomic Swiftblaze	9	3957
+Rose Terrorangel	10	3842
+dmace 39	1	4463
+Ursula Zonzen	1	4463
+Zippy Zoomshoes	2	4419
+Dark Blofis	3	4177
+Soul Silverlight	4	4105
+destroye ice blade	5	4092
+Race Kimchiracer	6	4010
+Ace Nightsword	7	3998
+Fusion Soulsteel	8	3985
+Dazz FreeZe	9	3957
+e racer joe	1	4463
+dmace 39	1	4463
+Ursula Zonzen	1	4463
+Zippy Zoomshoes	2	4419
+Dark Blofis	3	4177
+Soul Silverlight	4	4105
+destroye ice blade	5	4092
+Race Kimchiracer	6	4010
+Ace Nightsword	7	3998
+Fusion Soulsteel	8	3985
+e racer joe	1	4463
+dmace 39	1	4463
+Ursula Zonzen	1	4463
+Zippy Zoomshoes	2	4419
+Dark Blofis	3	4177
+Soul Silverlight	4	4105
+destroye ice blade	5	4092
+Mace Knightangel	6	4025
+Race Kimchiracer	7	4010
+Ace Nightsword	8	3998
+
+Delightful Developments
+e racer joe	1	7587
+dmace 39	2	7570
+Fusion Soulsteel	3	7394
+Ursula Zonzen	4	7376
+Zippy Zoomshoes	5	7104
+Violet Soulsteel	6	6955
+Connor Akuache	7	6810
+Mace Knightangel	8	6793
+Jace Betasteel	9	6729
+Jace Zeroaftershock	10	6682
+e racer joe	1	7587
+dmace 39	2	7570
+Fusion Soulsteel	3	7394
+Ursula Zonzen	4	7376
+Zippy Zoomshoes	5	7104
+Violet Soulsteel	6	6955
+Connor Akuache	7	6810
+Jace Betasteel	8	6729
+Jace Zeroaftershock	9	6682
+Race Roboox	10	6636
+Ursula Zonzen	1	7376
+dmace 39	2	7273
+Zippy Zoomshoes	3	7104
+Zippy Zoomsocks	4	6527
+Brave Tomatoboy	5	6405
+Terror Cometangel	6	6360
+Jehuty Zero	7	6242
+Trent Gilligan	8	6227
+Speed Cometangel	9	6126
+santi thao	10	6125
+
+Megas' Last Stand
+Connor Akuache	1	15500
+Ursula Zonzen	1	15500
+Zippy Zoomshoes	1	15500
+dmace 39	1	15500
+Zippy Zoomshoes	2	15439
+Dazz FreeZe	3	15365
+Mace Knightangel	4	15350
+The Freewalker	5	15158
+Harris Boomrastafar	6	15098
+destroye ice blade	7	14722
+Connor Akuache	1	15500
+Ursula Zonzen	1	15500
+dmace 39	1	15500
+Zippy Zoomshoes	1	15500
+Zippy Zoomshoes	2	15439
+Dazz FreeZe	3	15365
+The Freewalker	4	15158
+destroye ice blade	5	14722
+Rose Terrorangel	6	14425
+Jace Betasteel	7	14383
+Ursula Zonzen	1	15500
+Zippy Zoomshoes	1	15500
+dmace 39	1	15500
+Zippy Zoomshoes	2	15439
+Dazz FreeZe	3	15365
+The Freewalker	4	15158
+destroye ice blade	5	14722
+Rose Terrorangel	6	14425
+e racer joe	7	14313
+Mega Lancelot	8	14106
+Ursula Zonzen	1	15500
+Zippy Zoomshoes	1	15500
+dmace 39	1	15500
+Zippy Zoomshoes	2	15439
+Dazz FreeZe	3	15365
+The Freewalker	4	15158
+destroye ice blade	5	14722
+Rose Terrorangel	6	14425
+Mega Lancelot	7	14106
+Brave Tomatoboy	8	14065
+Ursula Zonzen	1	15500
+Zippy Zoomshoes	1	15500
+dmace 39	1	15500
+Zippy Zoomshoes	2	15439
+Dazz FreeZe	3	15365
+The Freewalker	4	15158
+destroye ice blade	5	14722
+Mega Lancelot	6	14106
+Brave Tomatoboy	7	14065
+Race Kimchiracer	8	13916
+Ursula Zonzen	1	15500
+Zippy Zoomshoes	1	15500
+dmace 39	1	15500
+Zippy Zoomshoes	2	15439
+Dazz FreeZe	3	15365
+The Freewalker	4	15158
+destroye ice blade	5	14722
+Brave Tomatoboy	6	14065
+Zippy Zoomsocks	7	13902
+Indignat Judgement	8	13635
+Ursula Zonzen	1	15500
+dmace 39	1	15500
+Zippy Zoomshoes	1	15500
+Zippy Zoomshoes	2	15439
+The Freewalker	3	15158
+destroye ice blade	4	14722
+Brave Tomatoboy	5	14065
+Zippy Zoomsocks	6	13902
+Indignat Judgement	7	13635
+Kestrel Scherzotremolo	8	13295
+Ursula Zonzen	1	15500
+Zippy Zoomshoes	1	15500
+dmace 39	1	15500
+Zippy Zoomshoes	2	15439
+The Freewalker	3	15158
+Brave Tomatoboy	4	14065
+Zippy Zoomsocks	5	13902
+Indignat Judgement	6	13635
+Kestrel Scherzotremolo	7	13295
+LD Zero	8	13218
+
+The Boneyard
+Connor Akuache	1	19598
+Ursula Zonzen	1	19598
+dmace 39	1	19598
+unknown known	2	19506
+defender ice blade	3	19038
+destroye ice blade	4	18994
+Rose Terrorangel	5	18875
+Mace Knightangel	6	18699
+Race Kimchiracer	7	18480
+Kestrel Scherzotremolo	8	18321
+Connor Akuache	1	19598
+Ursula Zonzen	1	19598
+dmace 39	1	19598
+unknown known	2	19506
+defender ice blade	3	19038
+destroye ice blade	4	18994
+Rose Terrorangel	5	18875
+Race Kimchiracer	6	18480
+Kestrel Scherzotremolo	7	18321
+Numbuh Zerojunior	8	17910
+Ursula Zonzen	1	19598
+dmace 39	1	19598
+unknown known	2	19506
+Connor Akuache	3	19248
+defender ice blade	4	19038
+destroye ice blade	5	18994
+Rose Terrorangel	6	18875
+Race Kimchiracer	7	18480
+Kestrel Scherzotremolo	8	18321
+Numbuh Zerojunior	9	17910
+Ursula Zonzen	1	19598
+dmace 39	1	19598
+unknown known	2	19506
+Connor Akuache	3	19248
+defender ice blade	4	19038
+destroye ice blade	5	18994
+Rose Terrorangel	6	18875
+Race Kimchiracer	7	18480
+Kestrel Scherzotremolo	8	18321
+Numbuh Zerojunior	9	17910
+Ursula Zonzen	1	19598
+dmace 39	1	19598
+unknown known	2	19506
+defender ice blade	3	19038
+destroye ice blade	4	18994
+Kestrel Scherzotremolo	5	18321
+Race Kimchiracer	6	18023
+Numbuh Zerojunior	7	17910
+Mega Lancelot	8	17577
+Volt Lunarcarlson	9	17535
+Ursula Zonzen	1	19598
+dmace 39	1	19598
+unknown known	2	19506
+defender ice blade	3	19038
+destroye ice blade	4	18994
+Kestrel Scherzotremolo	5	18321
+Numbuh Zerojunior	6	17910
+Zippy Zoomsocks	7	17317
+Nova Duskglory	8	16982
+Trent Gilligan	9	16509
+Ursula Zonzen	1	19598
+dmace 39	1	19598
+unknown known	2	19506
+defender ice blade	3	19038
+destroye ice blade	4	18994
+Kestrel Scherzotremolo	5	18321
+Numbuh Zerojunior	6	17910
+Zippy Zoomsocks	7	17317
+Trent Gilligan	8	16509
+Ace Nightsword	9	16471
+Ursula Zonzen	1	19598
+dmace 39	1	19598
+unknown known	2	19506
+destroye ice blade	3	18994
+Kestrel Scherzotremolo	4	18321
+Numbuh Zerojunior	5	17910
+defender ice blade	6	17467
+Zippy Zoomsocks	7	17317
+Trent Gilligan	8	16509
+Ace Nightsword	9	16471
+
+Reactor Works
+Giant Moosethorne	1	27500
+Connor Akuache	1	27500
+Harris Boomrastafar	1	27500
+Ursula Zonzen	1	27500
+dmace 39	1	27500
+unknown known	1	27500
+Rose Terrorangel	2	27251
+destroye ice blade	3	27145
+Dazz FreeZe	4	26569
+Mace Knightangel	5	26552
+Connor Akuache	1	27500
+Ursula Zonzen	1	27500
+dmace 39	1	27500
+unknown known	1	27500
+Rose Terrorangel	2	27251
+destroye ice blade	3	27145
+Dazz FreeZe	4	26569
+Race Kimchiracer	5	26328
+Speed Terrorangel	6	25336
+Ace Nightsword	7	24895
+Ursula Zonzen	1	27500
+dmace 39	1	27500
+unknown known	1	27500
+Ace Nightsword	2	24895
+Speed Lusion	3	24240
+Zippy Zoomsocks	4	23803
+LD Zero	5	20738
+Blossom Airborneblast	6	19175
+Trent Gilligan	7	18845
+Blossom Plasmablast	8	18441
+
+Charles Darwin Middle School
+e racer joe	1	14500
+Ursula Zonzen	1	14500
+dmace 39	2	14316
+Giant Moosethorne	3	13665
+Buni Boi	4	13111
+Speed Cometangel	5	12901
+Ace Nightsword	6	12882
+Rose Terrorangel	7	12773
+Mace Knightangel	8	12717
+Juno Wisedoom	9	12620
+e racer joe	1	14500
+Ursula Zonzen	1	14500
+dmace 39	2	14316
+Buni Boi	3	13111
+Speed Cometangel	4	12901
+Ace Nightsword	5	12882
+Rose Terrorangel	6	12773
+Juno Wisedoom	7	12620
+Bella Bellyant	8	12368
+Astro Willowzeta	9	12291
+Ursula Zonzen	1	14485
+dmace 39	2	14316
+Buni Boi	3	13111
+Speed Cometangel	4	12901
+Ace Nightsword	5	12882
+Rose Terrorangel	6	12773
+Juno Wisedoom	7	12620
+Bella Bellyant	8	12368
+Race Kimchiracer	9	12291
+Astro Willowzeta	9	12291
+Ursula Zonzen	1	14485
+dmace 39	2	14191
+Speed Cometangel	3	12901
+Ace Nightsword	4	12882
+Astro Willowzeta	5	12291
+Nova Duskglory	6	12188
+Rose Terrorangel	7	11983
+Melody Knightheart	8	11927
+david popcorn	9	11909
+Matthew awoyera	10	11896
+Ursula Zonzen	1	14485
+dmace 39	2	14191
+Speed Cometangel	3	12901
+Ace Nightsword	4	12882
+Astro Willowzeta	5	12291
+Nova Duskglory	6	12188
+Melody Knightheart	7	11927
+david popcorn	8	11909
+Trent Gilligan	9	11629
+Blossom Plasmablast	10	11096
+Ursula Zonzen	1	14485
+dmace 39	2	14191
+Speed Cometangel	3	12901
+Ace Nightsword	4	12882
+Melody Knightheart	5	11927
+Trent Gilligan	6	11629
+e racer joe	7	10856
+LD Zero	8	10628
+Zippy Zoomsocks	9	10248
+Dark Blofis	10	10234
+Ursula Zonzen	1	14485
+dmace 39	2	14191
+Speed Cometangel	3	12901
+Ace Nightsword	4	12882
+Melody Knightheart	5	11927
+Trent Gilligan	6	11629
+e racer joe	7	10856
+LD Zero	8	10628
+Zippy Zoomsocks	9	10248
+Dark Blofis	10	10234
+
+Dizzy World
+dmace 39	1	17017
+Ursula Zonzen	1	17017
+Connor Akuache	2	16122
+Mega Swiftracer	3	14933
+Buni Boi	4	14849
+Rose Terrorangel	5	14661
+Race Kimchiracer	6	14495
+Mace Knightangel	7	14190
+Trent Gilligan	8	14090
+Race Roboox	9	13896
+dmace 39	1	17017
+Ursula Zonzen	1	17017
+Connor Akuache	2	16122
+Buni Boi	3	14849
+Rose Terrorangel	4	14661
+Race Kimchiracer	5	14495
+Trent Gilligan	6	14090
+Race Roboox	7	13896
+Numbuh Zerojunior	8	13626
+destroye ice blade	9	13456
+Ursula Zonzen	1	16657
+dmace 39	2	16439
+Trent Gilligan	3	14090
+Numbuh Zerojunior	4	13626
+destroye ice blade	5	13456
+Zippy Zoomsocks	6	13388
+Kestrel Scherzotremolo	7	12722
+Master luke	8	12489
+Speed Cometangel	9	12066
+Adamanta flame	10	11964
+
+Sunny Bridges Auditorium
+dmace 39	1	12711
+Ursula Zonzen	1	12711
+Connor Akuache	1	12711
+Mace Knightangel	2	12257
+Race Kimchiracer	3	12132
+August Xyrewoods	4	12115
+Rose Terrorangel	5	11904
+Dazz FreeZe	6	11698
+Urbit Ranger	7	11394
+Juno Wisechicken	8	11361
+dmace 39	1	12711
+Ursula Zonzen	1	12711
+Connor Akuache	1	12711
+Race Kimchiracer	2	12132
+August Xyrewoods	3	12115
+Rose Terrorangel	4	11904
+Dazz FreeZe	5	11698
+Urbit Ranger	6	11394
+Juno Wisechicken	7	11361
+Kestrel Scherzotremolo	8	11328
+dmace 39	1	12711
+Ursula Zonzen	1	12711
+Connor Akuache	1	12711
+Race Kimchiracer	2	12132
+Rose Terrorangel	3	11904
+Dazz FreeZe	4	11698
+Urbit Ranger	5	11394
+Juno Wisechicken	6	11361
+Kestrel Scherzotremolo	7	11328
+Speed Terrorangel	8	11254
+dmace 39	1	12711
+Ursula Zonzen	1	12711
+Connor Akuache	1	12711
+Race Kimchiracer	2	12132
+Rose Terrorangel	3	11904
+Dazz FreeZe	4	11698
+Urbit Ranger	5	11394
+Juno Wisechicken	6	11361
+Kestrel Scherzotremolo	7	11328
+Speed Terrorangel	8	11254
+dmace 39	1	12711
+Ursula Zonzen	1	12711
+Dazz FreeZe	2	11698
+Race Kimchiracer	3	11596
+Rose Terrorangel	4	11486
+Urbit Ranger	5	11394
+Kestrel Scherzotremolo	6	11328
+Nova Duskglory	7	11213
+WAR 74	8	10954
+Speed Cometangel	9	10764
+dmace 39	1	12711
+Ursula Zonzen	1	12711
+Dazz FreeZe	2	11698
+Urbit Ranger	3	11394
+Kestrel Scherzotremolo	4	11328
+Nova Duskglory	5	11213
+WAR 74	6	10954
+Speed Cometangel	7	10764
+Zippy Zoomsocks	8	10302
+Little Crimsonauburn	9	10280
+dmace 39	1	12711
+Ursula Zonzen	1	12711
+Urbit Ranger	2	11394
+Kestrel Scherzotremolo	3	11328
+Nova Duskglory	4	11213
+WAR 74	5	10954
+Speed Cometangel	6	10764
+Zippy Zoomsocks	7	10302
+Ace Nightsword	8	9861
+Blossom Plasmablast	9	9832
+dmace 39	1	12711
+Ursula Zonzen	1	12711
+Urbit Ranger	2	11394
+Kestrel Scherzotremolo	3	11328
+WAR 74	4	10954
+Speed Cometangel	5	10764
+Zippy Zoomsocks	6	10302
+Ace Nightsword	7	9861
+Baba Marcelavalon	8	9683
+Blaze Zerobellum	9	9564
+
+Jungle Training Area
+dmace 39	1	10500
+Ursula Zonzen	1	10500
+e racer joe	1	10500
+Agent Flamedawn	2	10385
+Violet Vanceninja	3	10367
+Hydro Flareabyss	4	10349
+Dark Blofis	4	10349
+Ace Nightsword	5	10331
+Geo Stardust	6	10296
+kingwilh martin	7	10278
+dmace 39	1	10500
+Ursula Zonzen	1	10500
+e racer joe	1	10500
+Dark Blofis	2	10349
+Hydro Flareabyss	2	10349
+Ace Nightsword	3	10331
+Geo Stardust	4	10296
+kingwilh martin	5	10278
+Buni Boi	6	10171
+Admiral Boomwaters	7	10153
+dmace 39	1	10500
+Ursula Zonzen	1	10500
+e racer joe	1	10500
+Hydro Flareabyss	2	10349
+Dark Blofis	2	10349
+Ace Nightsword	3	10331
+Geo Stardust	4	10296
+kingwilh martin	5	10278
+Buni Boi	6	10171
+Ace Hazardcrazy	7	10118
+dmace 39	1	10500
+Ursula Zonzen	1	10500
+Hydro Flareabyss	2	10349
+Dark Blofis	2	10349
+Ace Nightsword	3	10331
+Geo Stardust	4	10296
+kingwilh martin	5	10278
+Buni Boi	6	10171
+Ace Hazardcrazy	7	10118
+Ace Knightheat	8	10048
+dmace 39	1	10500
+Ursula Zonzen	1	10500
+Dark Blofis	2	10349
+Hydro Flareabyss	2	10349
+Ace Nightsword	3	10331
+Geo Stardust	4	10296
+kingwilh martin	5	10278
+Ace Knightheat	6	10048
+Zippy Zoomshoes	7	9978
+Melody Knightheart	8	9926
+dmace 39	1	10500
+Ursula Zonzen	1	10500
+Hydro Flareabyss	2	10349
+Ace Nightsword	3	10331
+Geo Stardust	4	10296
+Ace Knightheat	5	10048
+Zippy Zoomshoes	6	9978
+Melody Knightheart	7	9926
+knightma queen	8	9909
+kingwilh martin	9	9786
+dmace 39	1	10500
+Ursula Zonzen	1	10500
+Ace Nightsword	2	10331
+Hydro Flareabyss	3	10150
+Ace Knightheat	4	10048
+Zippy Zoomshoes	5	9978
+Melody Knightheart	6	9909
+knightma queen	6	9909
+Zippy Zoomsocks	7	9471
+Speed Cometangel	8	9415
+
+Loch Mess
+Ursula Zonzen	1	7926
+e racer joe	2	7905
+dmace 39	3	7883
+Giant Moosethorne	4	7671
+Zippy Zoomshoes	5	7647
+Connor Akuache	6	7567
+The Freewalker	6	7567
+santi thao	7	7506
+Dazz FreeZe	8	7404
+Adamanta flame	9	7384
+Ursula Zonzen	1	7926
+e racer joe	2	7905
+dmace 39	3	7883
+Zippy Zoomshoes	4	7647
+The Freewalker	5	7567
+Connor Akuache	5	7567
+santi thao	6	7506
+Dazz FreeZe	7	7404
+Baba Marcelavalon	8	7344
+Rose Terrorangel	9	7264
+Ursula Zonzen	1	7926
+e racer joe	2	7905
+dmace 39	3	7883
+Zippy Zoomshoes	4	7647
+The Freewalker	5	7567
+santi thao	6	7506
+Dazz FreeZe	7	7404
+Baba Marcelavalon	8	7344
+Connor Akuache	8	7344
+Rose Terrorangel	9	7264
+dmace 39	1	7883
+Ursula Zonzen	2	7840
+Zippy Zoomshoes	3	7647
+The Freewalker	4	7567
+santi thao	5	7506
+Dazz FreeZe	6	7404
+Connor Akuache	7	7344
+Baba Marcelavalon	7	7344
+Rose Terrorangel	8	7264
+Player 10101	9	7166
+Ursula Zonzen	1	7840
+dmace 39	2	7650
+Zippy Zoomshoes	3	7647
+The Freewalker	4	7567
+santi thao	5	7506
+Dazz FreeZe	6	7404
+Baba Marcelavalon	7	7344
+Secret Silence	8	7166
+Player 10101	8	7166
+Lil Skull	9	7069
+Ursula Zonzen	1	7840
+dmace 39	2	7650
+Zippy Zoomshoes	3	7647
+The Freewalker	4	7567
+santi thao	5	7506
+Dazz FreeZe	6	7404
+Baba Marcelavalon	7	7344
+Secret Silence	8	7166
+Player 10101	8	7166
+Lil Skull	9	7069
+Ursula Zonzen	1	7840
+dmace 39	2	7650
+Zippy Zoomshoes	3	7647
+The Freewalker	4	7567
+santi thao	5	7485
+Baba Marcelavalon	6	7344
+Player 10101	7	7166
+Secret Silence	7	7166
+Lil Skull	8	7069
+destroye ice blade	9	7031
+Ursula Zonzen	1	7840
+dmace 39	2	7650
+Zippy Zoomshoes	3	7647
+The Freewalker	4	7567
+santi thao	5	7485
+Baba Marcelavalon	6	7344
+Secret Silence	7	7166
+Player 10101	7	7166
+Lil Skull	8	7069
+Brandon The Warrior	9	6879
+
+The Fissure
+e racer joe	1	17632
+Connor Akuache	2	17374
+Ursula Zonzen	3	17271
+dmace 39	4	17220
+Rose Terrorangel	5	15324
+Dazz FreeZe	6	15211
+Race Kimchiracer	7	15121
+Mace Knightangel	8	14616
+Race Roboox	9	14486
+Admiral Acrobatbennet	10	14083
+Ursula Zonzen	1	16571
+dmace 39	2	14380
+Admiral Acrobatbennet	3	14083
+Zippy Zoomsocks	4	13900
+Frost Mountainstorm	5	13219
+Jehuty Zero	6	12102
+Baba Marcelavalon	7	11812
+Alpha Thundertracker	8	11798
+Maestro Crimsonheat	9	11488
+Zane carthrige	10	11190
+Ursula Zonzen	1	16571
+dmace 39	2	14380
+Admiral Acrobatbennet	3	14083
+Zippy Zoomsocks	4	13900
+Frost Mountainstorm	5	13219
+Jehuty Zero	6	12102
+Baba Marcelavalon	7	11812
+Maestro Crimsonheat	8	11488
+Zane carthrige	9	11190
+Admiral Beastblocker	10	11122
+
+Cutts and Bruises Skate Park
+Zippy Zoomshoes	1	9032
+Ursula Zonzen	1	9032
+destroye ice blade	1	9032
+dmace 39	1	9032
+Fusion Soulsteel	2	8505
+defender ice blade	3	8480
+Samurai Shadowshield	4	8359
+Luther Freezeangel	5	8347
+knightma queen	6	8311
+Soul Silverlight	7	8287
+Zippy Zoomshoes	1	9032
+Ursula Zonzen	1	9032
+destroye ice blade	1	9032
+dmace 39	1	9032
+Fusion Soulsteel	2	8505
+defender ice blade	3	8480
+Luther Freezeangel	4	8347
+knightma queen	5	8311
+Soul Silverlight	6	8287
+Dazz FreeZe	7	8239
+Zippy Zoomshoes	1	9032
+Ursula Zonzen	1	9032
+destroye ice blade	1	9032
+dmace 39	1	9032
+defender ice blade	2	8480
+knightma queen	3	8311
+Soul Silverlight	4	8287
+Dazz FreeZe	5	8239
+The Great Brawlist	6	8192
+Fusion Soulsteel	7	8005
+Zippy Zoomshoes	1	9032
+Ursula Zonzen	1	9032
+destroye ice blade	1	9032
+dmace 39	1	9032
+defender ice blade	2	8480
+knightma queen	3	8311
+Soul Silverlight	4	8287
+Dazz FreeZe	5	8239
+The Great Brawlist	6	8192
+pro zedhunter	7	7891
+Zippy Zoomshoes	1	9032
+Ursula Zonzen	1	9032
+destroye ice blade	1	9032
+dmace 39	1	9032
+defender ice blade	2	8480
+knightma queen	3	8311
+Soul Silverlight	4	8287
+Dazz FreeZe	5	8239
+The Great Brawlist	6	8192
+Geo Stardust	7	7845
+Zippy Zoomshoes	1	9032
+Ursula Zonzen	1	9032
+destroye ice blade	1	9032
+dmace 39	1	9032
+defender ice blade	2	8480
+knightma queen	3	8311
+Dazz FreeZe	4	8239
+Geo Stardust	5	7845
+Hydro Flareabyss	6	7755
+Zippy Zoomsocks	7	7644
+Zippy Zoomshoes	1	9032
+Ursula Zonzen	1	9032
+destroye ice blade	1	9032
+dmace 39	1	9032
+defender ice blade	2	8480
+Geo Stardust	3	7845
+Hydro Flareabyss	4	7755
+Zippy Zoomsocks	5	7644
+Brave Tomatoboy	6	7492
+WAR 74	7	7427
+Zippy Zoomshoes	1	9032
+Ursula Zonzen	1	9032
+dmace 39	2	9009
+destroye ice blade	3	8628
+defender ice blade	4	8480
+Hydro Flareabyss	5	7755
+Zippy Zoomsocks	6	7644
+Brave Tomatoboy	7	7492
+WAR 74	8	7427
+Ace Nightsword	9	7406
+
+Sand Castle
+dmace 39	1	27105
+Zippy Zoomshoes	2	26775
+Ursula Zonzen	2	26775
+Mega Swiftracer	3	25399
+Shnitzel Bladeninja	4	25312
+Admiral Captainamused	5	24992
+Dazz FreeZe	6	24952
+Major Boom	7	24617
+Titan Rufffox	8	24559
+Mace Knightangel	9	24422
+dmace 39	1	27105
+Zippy Zoomshoes	2	26775
+Ursula Zonzen	2	26775
+Shnitzel Bladeninja	3	25312
+Dazz FreeZe	4	24952
+Major Boom	5	24617
+Titan Rufffox	6	24559
+Rose Terrorangel	7	23865
+Zippy Zoomsocks	8	23827
+Ace Spencerphoton	9	23751
+dmace 39	1	27105
+Zippy Zoomshoes	2	26775
+Ursula Zonzen	2	26775
+Shnitzel Bladeninja	3	25312
+Dazz FreeZe	4	24952
+Major Boom	5	24617
+Titan Rufffox	6	24559
+Rose Terrorangel	7	23865
+Zippy Zoomsocks	8	23827
+Ace Spencerphoton	9	23751
+dmace 39	1	27105
+Zippy Zoomshoes	2	26775
+Ursula Zonzen	2	26775
+Shnitzel Bladeninja	3	25312
+Dazz FreeZe	4	24952
+Major Boom	5	24617
+Titan Rufffox	6	24559
+Rose Terrorangel	7	23865
+Zippy Zoomsocks	8	23827
+Ace Spencerphoton	9	23751
+dmace 39	1	27105
+Zippy Zoomshoes	2	26775
+Ursula Zonzen	2	26775
+Shnitzel Bladeninja	3	25312
+Dazz FreeZe	4	24952
+Major Boom	5	24617
+Titan Rufffox	6	24559
+Zippy Zoomsocks	7	23827
+Ace Spencerphoton	8	23751
+Rose Terrorangel	9	23031
+Zippy Zoomshoes	1	26775
+Ursula Zonzen	1	26775
+dmace 39	2	26110
+Shnitzel Bladeninja	3	25312
+Major Boom	4	24617
+Zippy Zoomsocks	5	23827
+Nova Duskglory	6	21186
+Dark Blofis	7	21000
+Perplexe Pupil	8	20924
+General Fireshadow	9	20896
+Zippy Zoomshoes	1	26775
+Ursula Zonzen	1	26775
+dmace 39	2	26110
+Shnitzel Bladeninja	3	24972
+Major Boom	4	24617
+Zippy Zoomsocks	5	23827
+Dark Blofis	6	21000
+General Fireshadow	7	20896
+Baba Marcelavalon	8	20889
+Nova Duskglory	9	19437
+Zippy Zoomshoes	1	26775
+Ursula Zonzen	1	26775
+dmace 39	2	26110
+Major Boom	3	24617
+Shnitzel Bladeninja	4	24209
+Zippy Zoomsocks	5	23827
+Dark Blofis	6	21000
+General Fireshadow	7	20896
+Baba Marcelavalon	8	20889
+Super Turbohero	9	19155
+Zippy Zoomshoes	1	26775
+Ursula Zonzen	1	26775
+dmace 39	2	26110
+Major Boom	3	24617
+Shnitzel Bladeninja	4	24209
+Zippy Zoomsocks	5	23827
+Dark Blofis	6	21000
+General Fireshadow	7	20896
+Baba Marcelavalon	8	20889
+Super Turbohero	9	19155
+
+Crystalline Caverns
+Dark Blofis	1	11000
+dmace 39	1	11000
+Mega Swiftracer	1	11000
+Ursula Zonzen	1	11000
+Speed Cometangel	2	10750
+Terror Cometangel	3	10478
+e racer joe	4	9772
+Mace Knightangel	5	9459
+Mega Lancelot	6	9327
+Race Roboox	7	9167
+Dark Blofis	1	11000
+dmace 39	1	11000
+Ursula Zonzen	1	11000
+Speed Cometangel	2	10750
+Terror Cometangel	3	10478
+e racer joe	4	9772
+Mega Lancelot	5	9327
+Race Roboox	6	9167
+Fusion Shield	7	9087
+Geo Stardust	8	8959
+Dark Blofis	1	11000
+dmace 39	1	11000
+Ursula Zonzen	1	11000
+Speed Cometangel	2	10750
+Terror Cometangel	3	10478
+e racer joe	4	9772
+Mega Lancelot	5	9327
+Fusion Shield	6	9087
+Geo Stardust	7	8959
+Rose Terrorangel	8	8911
+Dark Blofis	1	11000
+dmace 39	1	11000
+Ursula Zonzen	1	11000
+Speed Cometangel	2	10750
+Terror Cometangel	3	10478
+Mega Lancelot	4	9327
+e racer joe	5	9108
+Geo Stardust	6	8959
+Rose Terrorangel	7	8911
+Fusion Shield	8	8908
+Dark Blofis	1	11000
+dmace 39	1	11000
+Ursula Zonzen	1	11000
+Speed Cometangel	2	10750
+Terror Cometangel	3	10478
+Mega Lancelot	4	9327
+Geo Stardust	5	8959
+Nova Duskglory	6	8895
+Fusion Shield	7	8832
+Zippy Zoomsocks	8	8821
+Dark Blofis	1	11000
+dmace 39	1	11000
+Ursula Zonzen	1	11000
+Speed Cometangel	2	10750
+Terror Cometangel	3	10478
+Geo Stardust	4	8959
+Nova Duskglory	5	8895
+Zippy Zoomsocks	6	8821
+destroye ice blade	7	8794
+Acacia Airborneiron	8	8565
+dmace 39	1	11000
+Ursula Zonzen	1	11000
+Speed Cometangel	2	10750
+Terror Cometangel	3	10478
+Geo Stardust	4	8959
+Zippy Zoomsocks	5	8821
+destroye ice blade	6	8794
+Ace Nightsword	7	8523
+Sparkboy 777	8	8426
+Blossom Airborneblast	9	8195
+dmace 39	1	11000
+Ursula Zonzen	1	11000
+Speed Cometangel	2	10750
+Terror Cometangel	3	10478
+Zippy Zoomsocks	4	8821
+Ace Nightsword	5	8523
+Sparkboy 777	6	8426
+Blossom Airborneblast	7	8195
+LD Zero	8	7857
+Zane carthrige	9	7852
+
+Construction Site
+Connor Akuache	1	24941
+Jace Stealeon	1	24941
+dmace 39	1	24941
+Ursula Zonzen	1	24941
+Jace Betasteel	1	24941
+Mace Knightangel	1	24941
+Jace Zeroaftershock	1	24941
+Zoe Stealvilgax	2	24915
+Giant Moosethorne	3	24686
+Rose Terrorangel	4	24550
+Connor Akuache	1	24941
+Jace Stealeon	1	24941
+Ursula Zonzen	1	24941
+dmace 39	1	24941
+Jace Betasteel	1	24941
+Jace Zeroaftershock	1	24941
+Zoe Stealvilgax	2	24915
+Rose Terrorangel	3	24550
+August Xyrewoods	4	24528
+Dazz FreeZe	5	24393
+Connor Akuache	1	24941
+dmace 39	1	24941
+Ursula Zonzen	1	24941
+Zoe Stealvilgax	2	24915
+Rose Terrorangel	3	24550
+Dazz FreeZe	4	24393
+Speed Terrorangel	5	24189
+destroye ice blade	6	23988
+Ed Stealvilgax	7	23724
+Lorelei Wonderzap	8	23226
+Connor Akuache	1	24941
+dmace 39	1	24941
+Ursula Zonzen	1	24941
+Rose Terrorangel	2	24550
+Dazz FreeZe	3	24393
+Speed Terrorangel	4	24189
+destroye ice blade	5	23988
+Lorelei Wonderzap	6	23226
+Ed Stealvilgax	7	23076
+Numbuh Zerojunior	8	22633
+dmace 39	1	24941
+Ursula Zonzen	1	24941
+Dazz FreeZe	2	24393
+Rose Terrorangel	3	24055
+destroye ice blade	4	23988
+Speed Terrorangel	5	23593
+Numbuh Zerojunior	6	22633
+Zippy Zoomsocks	7	21098
+Nova Duskglory	8	20924
+Blossom Airborneblast	9	20847
+dmace 39	1	24941
+Ursula Zonzen	1	24941
+Dazz FreeZe	2	24393
+destroye ice blade	3	23988
+Numbuh Zerojunior	4	22633
+Zippy Zoomsocks	5	21098
+Nova Duskglory	6	20924
+Blossom Airborneblast	7	20847
+Baba Marcelavalon	8	20032
+Violet Datawave	9	19431
+dmace 39	1	24941
+Ursula Zonzen	1	24941
+destroye ice blade	2	23988
+Numbuh Zerojunior	3	22633
+Zippy Zoomsocks	4	21098
+Nova Duskglory	5	20924
+Blossom Airborneblast	6	20847
+Baba Marcelavalon	7	20032
+Kestrel Scherzotremolo	8	18911
+Clarasza Namashiro	9	18899
+dmace 39	1	24941
+Ursula Zonzen	1	24941
+Numbuh Zerojunior	2	22633
+Zippy Zoomsocks	3	21098
+Baba Marcelavalon	4	20032
+Kestrel Scherzotremolo	5	18911
+Clarasza Namashiro	6	18899
+Alse Kai	7	18548
+Brandon The Warrior	8	18313
+Irwin Havokflint	9	17537
+
+Hani-Baba Temple
+Mega Swiftracer	1	22000
+e racer joe	1	22000
+Connor Akuache	1	22000
+dmace 39	1	22000
+Ursula Zonzen	1	22000
+Mace Knightangel	2	21867
+Jace Zeroaftershock	3	21543
+Bloo super doop	4	21517
+Giant Moosethorne	5	21205
+Ace Nightsword	6	21104
+e racer joe	1	22000
+Connor Akuache	1	22000
+dmace 39	1	22000
+Ursula Zonzen	1	22000
+Bloo super doop	2	21517
+Ace Nightsword	3	21104
+Ace De Bloo	4	21078
+Jace Betasteel	5	20799
+Rose Terrorangel	6	20740
+Jace Stealeon	7	20649
+e racer joe	1	22000
+Connor Akuache	1	22000
+dmace 39	1	22000
+Ursula Zonzen	1	22000
+Bloo super doop	2	21517
+Ace Nightsword	3	21104
+Ace De Bloo	4	21078
+Jace Betasteel	5	20799
+Rose Terrorangel	6	20740
+Cosmo The Zodiac	7	20277
+Connor Akuache	1	22000
+dmace 39	1	22000
+Ursula Zonzen	1	22000
+Ace Nightsword	2	21104
+Ace Knightheat	3	20227
+boy wonder 23	4	20057
+Rose Terrorangel	5	20055
+Ed Stealvilgax	6	19831
+Juno Wisechicken	7	19798
+Lorelei Wonderzap	8	19783
+Connor Akuache	1	22000
+dmace 39	1	22000
+Ursula Zonzen	1	22000
+Ace Nightsword	2	21104
+Ace Knightheat	3	20227
+Nova Duskglory	4	19774
+Agent E Levin	5	19695
+Ultra Fusionaura	6	19434
+Little Shadowangel	7	18946
+Geo Stardust	8	18814
+Connor Akuache	1	22000
+dmace 39	1	22000
+Ursula Zonzen	1	22000
+Ace Nightsword	2	21104
+Ace Knightheat	3	20227
+Nova Duskglory	4	19774
+Agent E Levin	5	19695
+Ultra Fusionaura	6	19434
+Little Shadowangel	7	18946
+Geo Stardust	8	18814
+Connor Akuache	1	22000
+dmace 39	1	22000
+Ursula Zonzen	1	22000
+Ace Nightsword	2	21104
+Ace Knightheat	3	20227
+Agent E Levin	4	19695
+Ultra Fusionaura	5	19434
+Geo Stardust	6	18814
+Nova Duskglory	7	18439
+dude men59	8	18432
+dmace 39	1	22000
+Ursula Zonzen	2	21912
+Ace Nightsword	3	21104
+Ace Knightheat	4	20227
+Agent E Levin	5	19695
+Ultra Fusionaura	6	19434
+Geo Stardust	7	18814
+Dark Blofis	8	17886
+dude men59	9	17795
+Trent Gilligan	10	17397
+
+Tyrannical Gardens
+Connor Akuache	1	46758
+Giant Moosethorne	1	46758
+Ursula Zonzen	1	46758
+Harris Boomrastafar	1	46758
+maxxor ds	1	46758
+Rose Terrorangel	1	46758
+Johnny Dusk	1	46758
+Mega Swiftwater	1	46758
+Ace Spencerphoton	1	46758
+Sweet Aeroaura	1	46758
+Connor Akuache	1	46758
+Ursula Zonzen	1	46758
+Rose Terrorangel	1	46758
+Ace Spencerphoton	1	46758
+destroye ice blade	1	46758
+Race Kimchiracer	1	46758
+Numbuh Zerojunior	1	46758
+mark chio	1	46758
+dmace 39	1	46758
+Speed Terrorangel	2	46644
+Connor Akuache	1	46758
+Ursula Zonzen	1	46758
+Rose Terrorangel	1	46758
+destroye ice blade	1	46758
+Race Kimchiracer	1	46758
+Numbuh Zerojunior	1	46758
+mark chio	1	46758
+dmace 39	1	46758
+Percival Banshee	2	46468
+Kestrel Scherzotremolo	3	45542
+Ursula Zonzen	1	46758
+destroye ice blade	1	46758
+Numbuh Zerojunior	1	46758
+dmace 39	1	46758
+Percival Banshee	2	46468
+Kestrel Scherzotremolo	3	45542
+Rose Terrorangel	4	45013
+Speed Lusion	5	45001
+Race Kimchiracer	6	44272
+mark chio	7	43593
+Ursula Zonzen	1	46758
+destroye ice blade	1	46758
+Numbuh Zerojunior	1	46758
+dmace 39	1	46758
+Speed Lusion	2	45001
+Ace Nightsword	3	43524
+Nova Duskglory	4	43130
+david popcorn	5	42019
+Blossom Airborneblast	6	41559
+knightma queen	7	40589
+Ursula Zonzen	1	46758
+Numbuh Zerojunior	1	46758
+dmace 39	1	46758
+Speed Lusion	2	45001
+Ace Nightsword	3	43524
+knightma queen	4	40589
+Baron Quickranger	5	37459
+Alpha Dark JakX	6	37217
+Zippy Airbornebark	7	37179
+Catskye mcclain	8	36865
+
+Skypad Space Port
+Giant Moosethorne	1	37098
+Mace Knightangel	1	37098
+Mega Swiftracer	1	37098
+Angel The Amused	1	37098
+Johnny Dusk	1	37098
+Mega Swiftwater	1	37098
+Connor Akuache	1	37098
+Ursula Zonzen	1	37098
+dmace 39	1	37098
+Mace Cometblaze	1	37098
+Ursula Zonzen	1	37098
+dmace 39	1	37098
+Hydro Flareabyss	1	37098
+destroye ice blade	1	37098
+Speed Lusion	1	37098
+Scarlet ice blade	1	37098
+Numbuh Zerojunior	1	37098
+knightma queen	1	37098
+Zippy Zoomsocks	1	37098
+Little Crimsonauburn	2	36992
+Ursula Zonzen	1	37098
+dmace 39	1	37098
+Speed Lusion	1	37098
+Zippy Zoomsocks	1	37098
+Little Crimsonauburn	2	35198
+General stormwolf	3	34246
+Baron Quickranger	4	33148
+just the coolguy	5	32678
+Admiral Brutezombie	6	32141
+Cecil Hoppingrascal	7	31940
+
+Nowhere Triangle
+Liberty Wiltgym	1	25500
+Admiral Captainamused	1	25500
+Admiral Boomwaters	1	25500
+Ultra Shadowprincess	1	25500
+e racer joe	1	25500
+maxxor ds	1	25500
+Ursula Zonzen	1	25500
+dmace 39	2	25415
+Giant Moosethorne	3	25375
+Freaky Ubersamurai	4	25256
+Liberty Wiltgym	1	25500
+e racer joe	1	25500
+maxxor ds	1	25500
+Ursula Zonzen	1	25500
+dmace 39	2	25415
+Ultra Shadowprincess	3	25335
+Crazy Ubersamurai	4	25256
+Freaky Ubersamurai	4	25256
+Connor Akuache	5	24787
+Admiral Boomwaters	6	24710
+e racer joe	1	25500
+Ursula Zonzen	1	25500
+dmace 39	2	25415
+Ultra Shadowprincess	3	25335
+Freaky Ubersamurai	4	25256
+Crazy Ubersamurai	4	25256
+Connor Akuache	5	24787
+Admiral Boomwaters	6	24710
+Geo Stardust	6	24710
+Zippy Zoomshoes	6	24710
+Ursula Zonzen	1	25500
+dmace 39	2	25415
+Freaky Ubersamurai	3	25256
+Crazy Ubersamurai	3	25256
+Connor Akuache	4	24787
+Zippy Zoomshoes	5	24710
+Geo Stardust	5	24710
+Terror Cometangel	6	24556
+Esher gogrila	7	24251
+Brave Tomatoboy	8	24213
+Ursula Zonzen	1	25500
+dmace 39	2	25415
+Crazy Ubersamurai	3	25256
+Freaky Ubersamurai	3	25256
+Geo Stardust	4	24710
+Zippy Zoomshoes	4	24710
+Connor Akuache	5	24633
+Terror Cometangel	6	24556
+Esher gogrila	7	24251
+defender ice blade	8	23987
+Ursula Zonzen	1	25500
+dmace 39	2	25415
+Freaky Ubersamurai	3	25256
+Crazy Ubersamurai	3	25256
+Geo Stardust	4	24710
+Zippy Zoomshoes	4	24710
+Terror Cometangel	5	24556
+Connor Akuache	6	24403
+Esher gogrila	7	24251
+defender ice blade	8	23987
+dmace 39	1	25415
+Ursula Zonzen	2	25375
+Crazy Ubersamurai	3	25256
+Freaky Ubersamurai	3	25256
+Zippy Zoomshoes	4	24710
+Terror Cometangel	5	24556
+Geo Stardust	6	24403
+Esher gogrila	7	24213
+defender ice blade	8	23987
+Connor Akuache	9	23875
+
+The Canopy
+Admiral Captainamused	1	32706
+dmace 39	1	32706
+Ace Hazardcrazy	1	32706
+Connor Akuache	1	32706
+Mega Swiftracer	1	32706
+Ursula Zonzen	2	32662
+Rose Terrorangel	3	32328
+Shadow Vulture	4	31923
+Mace Knightangel	5	31697
+Nova Duskglory	6	31132
+dmace 39	1	32706
+Connor Akuache	1	32706
+Ace Hazardcrazy	1	32706
+Ursula Zonzen	2	32662
+Rose Terrorangel	3	32328
+Nova Duskglory	4	31132
+Speed Terrorangel	5	30972
+Little Shadowangel	6	30858
+Jace Zeroaftershock	7	30857
+Orion Vantitan	8	30490
+dmace 39	1	32706
+Connor Akuache	1	32706
+Ace Hazardcrazy	1	32706
+Ursula Zonzen	2	32662
+Rose Terrorangel	3	32328
+Nova Duskglory	4	31132
+Speed Terrorangel	5	30972
+Little Shadowangel	6	30858
+Orion Vantitan	7	30490
+Jayron Auron	8	30437
+dmace 39	1	32706
+Connor Akuache	1	32706
+Ursula Zonzen	2	32662
+Rose Terrorangel	3	32328
+Nova Duskglory	4	31132
+Speed Terrorangel	5	30972
+Little Shadowangel	6	30858
+Orion Vantitan	7	30490
+Jayron Auron	8	30437
+Astro Willowzeta	9	30169
+Ursula Zonzen	1	32662
+dmace 39	2	31934
+Nova Duskglory	3	31132
+Little Shadowangel	4	30858
+Jayron Auron	5	30437
+Astro Willowzeta	6	30169
+Rose Terrorangel	7	30065
+Ace Nightsword	8	29767
+david popcorn	9	29445
+Hawk Axethunder	10	29336
+Ursula Zonzen	1	32662
+Nova Duskglory	2	31132
+dmace 39	3	31105
+Little Shadowangel	4	30858
+Jayron Auron	5	30437
+Ace Nightsword	6	29767
+david popcorn	7	28821
+Blossom Airborneblast	8	27612
+Catskye mcclain	9	27525
+Kels Bug	10	27190
+Ursula Zonzen	1	32662
+Nova Duskglory	2	31132
+dmace 39	3	31105
+Jayron Auron	4	30437
+Ace Nightsword	5	29767
+david popcorn	6	28821
+Blossom Airborneblast	7	27612
+Catskye mcclain	8	27525
+Kels Bug	9	27190
+Aero Windblast	10	26819
+Ursula Zonzen	1	32662
+dmace 39	2	31105
+Ace Nightsword	3	29767
+Baba Marcelavalon	4	24580
+Jayron Auron	5	23951
+WAR 74	6	23936
+Zippy Airbornebark	7	23745
+Ollie Benoitarmor	8	22292
+Ultra Torch	9	22096
+Kate Biostar	10	22015
+
+Monkey Summit
+dmace 39	1	40272
+Sweet Aeroaura	2	39376
+Mace Knightangel	3	39045
+Race Roboox	4	38466
+Rose Terrorangel	5	38045
+Ursula Zonzen	6	37198
+Race Kimchiracer	7	36467
+Speed Terrorangel	8	36128
+Volt Lunarcarlson	9	36043
+Brooks Apollocommando	10	35732
+dmace 39	1	40272
+Rose Terrorangel	2	38045
+Ursula Zonzen	3	37198
+Race Kimchiracer	4	36467
+Speed Terrorangel	5	36128
+Volt Lunarcarlson	6	36043
+Brooks Apollocommando	7	35732
+Jinx The Genius	8	34096
+Krizby Guiver	9	33366
+Cosmo The Zodiac	10	33278
+dmace 39	1	40272
+Rose Terrorangel	2	38045
+Ursula Zonzen	3	37198
+Race Kimchiracer	4	36467
+Speed Terrorangel	5	36128
+Volt Lunarcarlson	6	36043
+Jinx The Genius	7	34096
+Krizby Guiver	8	33366
+Cosmo The Zodiac	9	33278
+Nova Duskglory	10	33206
+dmace 39	1	40272
+Rose Terrorangel	2	38045
+Ursula Zonzen	3	37198
+Race Kimchiracer	4	36467
+Speed Terrorangel	5	36128
+Volt Lunarcarlson	6	36043
+Krizby Guiver	7	33366
+Nova Duskglory	8	33206
+Ace Axeracer	9	32599
+Blossom Airborneblast	10	32201
+dmace 39	1	40272
+Ursula Zonzen	2	37198
+Race Kimchiracer	3	36467
+Volt Lunarcarlson	4	36043
+Rose Terrorangel	5	34508
+Krizby Guiver	6	33366
+Nova Duskglory	7	33206
+Ace Axeracer	8	32599
+Blossom Airborneblast	9	32201
+Ace Nightsword	10	31952
+Ursula Zonzen	1	37198
+dmace 39	2	33884
+Krizby Guiver	3	33366
+Nova Duskglory	4	33206
+Blossom Airborneblast	5	32201
+Ace Nightsword	6	31952
+Admiral Acrobatbennet	7	31209
+david popcorn	8	30819
+Omoni Strife	9	29921
+Volt Lunarcarlson	10	29868
+Ursula Zonzen	1	37198
+dmace 39	2	33884
+Krizby Guiver	3	33366
+Nova Duskglory	4	33206
+Blossom Airborneblast	5	32201
+Ace Nightsword	6	31952
+Admiral Acrobatbennet	7	31209
+Omoni Strife	8	29921
+Volt Lunarcarlson	9	29868
+Omni Starvega	10	28929
+Ursula Zonzen	1	37198
+dmace 39	2	33884
+Krizby Guiver	3	33366
+Ace Nightsword	4	31952
+Admiral Acrobatbennet	5	31209
+Omoni Strife	6	29921
+Volt Lunarcarlson	7	29868
+Omni Starvega	8	28929
+Samurai Nitroblazer	9	28716
+Ambrose Megalaser	10	27973
+
+Dinosaur Graveyard
+Eddy Akuache	1	20000
+Mace Knightangel	1	20000
+Mega Swiftracer	1	20000
+Admiral Quickranger	1	20000
+May Knightheart	1	20000
+Mega The Amused	1	20000
+Angel Von Walker	1	20000
+Johnny Dusk	1	20000
+Universe Master	1	20000
+Mega Stripedwarrior	1	20000
+Ursula Zonzen	1	20000
+Connor Akuache	1	20000
+Hydro Flareabyss	1	20000
+dmace 39	1	20000
+Geo Stardust	1	20000
+Angel The Amused	1	20000
+Iron Spaceman	1	20000
+Ace Spencerphoton	1	20000
+Dark Blofis	1	20000
+Luther Fallangel	2	19844
+Ursula Zonzen	1	20000
+Connor Akuache	1	20000
+Hydro Flareabyss	1	20000
+dmace 39	1	20000
+Geo Stardust	1	20000
+Ace Spencerphoton	1	20000
+Dark Blofis	1	20000
+Dazz FreeZe	2	19817
+Green Dataknight	3	19783
+Race Kimchiracer	3	19783
+Ursula Zonzen	1	20000
+Hydro Flareabyss	1	20000
+dmace 39	1	20000
+Geo Stardust	1	20000
+Ace Spencerphoton	1	20000
+Dark Blofis	1	20000
+Dazz FreeZe	2	19817
+Green Dataknight	3	19783
+knightma queen	4	19649
+Terror Cometangel	5	19443
+Ursula Zonzen	1	20000
+Hydro Flareabyss	1	20000
+dmace 39	1	20000
+Geo Stardust	1	20000
+Dark Blofis	1	20000
+Dazz FreeZe	2	19817
+Green Dataknight	3	19783
+knightma queen	4	19649
+Terror Cometangel	5	19443
+Maestro Crimsonheat	6	19180
+Ursula Zonzen	1	20000
+Hydro Flareabyss	1	20000
+dmace 39	1	20000
+knightma queen	2	19616
+Terror Cometangel	3	19443
+Maestro Crimsonheat	4	19180
+Speed Cometangel	5	19017
+drazil austin	6	18920
+Teddy Archangel	7	18766
+Jacob Thunderfang	8	18506
+dmace 39	1	20000
+knightma queen	2	19616
+Hydro Flareabyss	3	19582
+Terror Cometangel	4	19443
+Ursula Zonzen	5	19180
+Maestro Crimsonheat	5	19180
+Speed Cometangel	6	19017
+drazil austin	7	18920
+Teddy Archangel	8	18766
+Baba Marcelavalon	9	18323
+
+Inferno Fields
+Mega Swiftwater	1	70835
+Connor Akuache	1	70835
+Admiral Captainamused	1	70835
+Luther Fallangel	1	70835
+Brooks Angelcommando	1	70835
+maxxor ds	1	70835
+Ursula Zonzen	1	70835
+August Xyrewoods	1	70835
+dmace 39	1	70835
+Jace Zeroaftershock	1	70835
+Mega Swiftwater	1	70835
+Connor Akuache	1	70835
+Luther Fallangel	1	70835
+Brooks Angelcommando	1	70835
+maxxor ds	1	70835
+Ursula Zonzen	1	70835
+dmace 39	1	70835
+Jace Zeroaftershock	1	70835
+Jace Stealeon	1	70835
+Race Roboox	2	69806
+Connor Akuache	1	70835
+Ursula Zonzen	1	70835
+dmace 39	1	70835
+Ace Axeracer	2	68913
+Rose Terrorangel	3	68561
+Lorelei Wonderzap	4	67556
+destroye ice blade	5	66864
+Ed Stealvilgax	6	66141
+Zoe Stealvilgax	7	63255
+Jace Betasteel	8	62312
+Connor Akuache	1	70835
+Ursula Zonzen	1	70835
+dmace 39	1	70835
+Rose Terrorangel	2	68561
+destroye ice blade	3	66864
+Ace Nightsword	4	61610
+Jinx The Genius	5	59793
+Volt Lunarcarlson	6	59488
+Geo Stardust	7	59450
+knightma queen	8	58267
+Ursula Zonzen	1	70835
+dmace 39	1	70835
+destroye ice blade	2	66864
+Rose Terrorangel	3	63004
+Ace Nightsword	4	61610
+Volt Lunarcarlson	5	59488
+Geo Stardust	6	59450
+knightma queen	7	58267
+Race Kimchiracer	8	56722
+Esher gogrila	9	56235
+Ursula Zonzen	1	70835
+dmace 39	1	70835
+destroye ice blade	2	66864
+Ace Nightsword	3	61610
+Geo Stardust	4	59450
+knightma queen	5	58267
+Esher gogrila	6	56235
+Little Crimsonauburn	7	55982
+Agent Chillclaw	8	54357
+Champ Dragonfighter	9	53972
+Ursula Zonzen	1	70835
+dmace 39	1	70835
+destroye ice blade	2	66864
+Ace Nightsword	3	61610
+Geo Stardust	4	59450
+knightma queen	5	58267
+Esher gogrila	6	56235
+Champ Dragonfighter	7	53972
+Gold solder	8	49528
+Nova Duskglory	9	49081
+Ursula Zonzen	1	70835
+dmace 39	1	70835
+Ace Nightsword	2	61610
+Geo Stardust	3	59450
+Esher gogrila	4	56235
+Agent Zane Devlin	5	47622
+Dean Hunter	6	47322
+Zane Carpo	7	45782
+Lane Hypersweet	8	45607
+dude men59	9	44748
+
+Dark Tree Clearing
+Rex1000 sheerin	1	66000
+Mega Swiftwater	1	66000
+Agent Soulcap	1	66000
+e racer joe	1	66000
+Ursula Zonzen	1	66000
+Luther Fallangel	1	66000
+Angel The Amused	1	66000
+Star Soulexeter	1	66000
+dmace 39	1	66000
+Steel Fusionaura	1	66000
+e racer joe	1	66000
+Ursula Zonzen	1	66000
+dmace 39	1	66000
+Angel The Amused	2	65825
+Rose Terrorangel	3	65497
+Luther Fallangel	4	64933
+Steel Zonzen	5	64886
+Race Kimchiracer	6	64408
+Mega Swiftwater	7	63113
+defender ice blade	8	62303
+Ursula Zonzen	1	66000
+dmace 39	1	66000
+Steel Zonzen	2	64886
+Rose Terrorangel	3	63701
+Race Kimchiracer	4	62642
+defender ice blade	5	62303
+Speed Terrorangel	6	62058
+Connor Akuache	7	61935
+knightma queen	8	61607
+Speed Cometangel	9	61249
+Ursula Zonzen	1	66000
+dmace 39	1	66000
+Steel Zonzen	2	64886
+Rose Terrorangel	3	63701
+Race Kimchiracer	4	62642
+defender ice blade	5	62303
+Speed Terrorangel	6	62058
+knightma queen	7	61607
+Speed Cometangel	8	61249
+Terror Cometangel	9	60356
+Ursula Zonzen	1	66000
+dmace 39	1	66000
+Steel Zonzen	2	64886
+defender ice blade	3	62303
+knightma queen	4	61607
+Speed Cometangel	5	61249
+Terror Cometangel	6	60356
+Hydro Flareabyss	7	60061
+destroye ice blade	8	58033
+avenger ice blade	9	57864
+Ursula Zonzen	1	66000
+dmace 39	1	66000
+Steel Zonzen	2	64886
+defender ice blade	3	62303
+knightma queen	4	61607
+Speed Cometangel	5	61249
+Terror Cometangel	6	60356
+avenger ice blade	7	57864
+Chief Axebullet	8	55915
+Hydro Flareabyss	9	54786
+Ursula Zonzen	1	66000
+dmace 39	1	66000
+Steel Zonzen	2	64886
+defender ice blade	3	62303
+Speed Cometangel	4	61249
+Terror Cometangel	5	60356
+Chief Axebullet	6	55915
+Hydro Flareabyss	7	54786
+Speed Lusion	8	53886
+Kestrel Scherzotremolo	9	51844
+
+Green Gullet
+Eddy The Jackson	1	49101
+Connor Akuache	1	49101
+Luther Fallangel	1	49101
+Henrik Surferdiver	1	49101
+Rex1000 sheerin	1	49101
+Admiral Captainamused	1	49101
+Steel Fusionaura	1	49101
+Iron Spaceman	1	49101
+kite otsuka	1	49101
+Fuzzy Barkzon	1	49101
+dmace 39	1	49101
+Ursula Zonzen	2	48802
+defender ice blade	3	48355
+destroye ice blade	4	48270
+avenger ice blade	5	47650
+Freaky Ubersamurai	6	47359
+guardian ice blade	7	46669
+Connor Akuache	8	46597
+Zippy Zoomsocks	9	45200
+Crazy Ubersamurai	10	45120
+Ursula Zonzen	1	48802
+dmace 39	2	48728
+defender ice blade	3	48355
+destroye ice blade	4	48270
+avenger ice blade	5	47505
+guardian ice blade	6	46669
+Zippy Zoomsocks	7	45200
+Crazy Ubersamurai	8	45120
+Freaky Ubersamurai	8	45120
+cruise baby	9	44815

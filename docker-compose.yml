@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pricemaker:
+    image: pricemaker
+    build:
+      context: .
+      dockerfile: ./Dockerfile

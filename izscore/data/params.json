@@ -1,0 +1,372 @@
+[
+    {
+        "iz_name": "KND Training Area (F) (New)",
+        "max_score": 777,
+        "max_pods": 14,
+        "max_time": 150,
+        "epid": 1,
+        "scale_factor": 5.644393282134237,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "KND Training Area (F) (Old)",
+        "max_score": 649,
+        "max_pods": 14,
+        "max_time": 165,
+        "epid": 1,
+        "scale_factor": 5.644393282134237,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Pokey Oaks Junior High (F)",
+        "max_score": 4542,
+        "max_pods": 38,
+        "max_time": 430,
+        "epid": 2,
+        "scale_factor": 7.591673579337926,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Mandark's House (F)",
+        "max_score": 2611,
+        "max_pods": 26,
+        "max_time": 192,
+        "epid": 3,
+        "scale_factor": 7.037870159236836,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Delightful Developments (F)",
+        "max_score": 7373,
+        "max_pods": 62,
+        "max_time": 590,
+        "epid": 4,
+        "scale_factor": 8.076653705355968,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Megas' Last Stand (F)",
+        "max_score": 12684,
+        "max_pods": 83,
+        "max_time": 982,
+        "epid": 5,
+        "scale_factor": 8.619724357072208,
+        "pod_factor": 1.2296292165591987,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Pokey Oaks Junior High",
+        "max_score": 11563,
+        "max_pods": 103,
+        "max_time": 647,
+        "epid": 7,
+        "scale_factor": 8.526717769447902,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Mandark's House",
+        "max_score": 7597,
+        "max_pods": 88,
+        "max_time": 507,
+        "epid": 8,
+        "scale_factor": 8.10660652683406,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Sweet Revenge",
+        "max_score": 4463,
+        "max_pods": 53,
+        "max_time": 300,
+        "epid": 9,
+        "scale_factor": 7.5736678705207,
+        "pod_factor": 1.2230897375690448,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Delightful Developments",
+        "max_score": 7639,
+        "max_pods": 64,
+        "max_time": 425,
+        "epid": 10,
+        "scale_factor": 8.113141933259586,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Megas' Last Stand (New)",
+        "max_score": 15500,
+        "max_pods": 137,
+        "max_time": 1030,
+        "epid": 11,
+        "scale_factor": 8.79811262411761,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Megas' Last Stand (Old)",
+        "max_score": 15158,
+        "max_pods": 137,
+        "max_time": 1030,
+        "epid": 11,
+        "scale_factor": 8.79811262411761,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "The Boneyard",
+        "max_score": 19598,
+        "max_pods": 128,
+        "max_time": 1277,
+        "epid": 12,
+        "scale_factor": 9.055157699297208,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Reactor Works",
+        "max_score": 27500,
+        "max_pods": 132,
+        "max_time": 1537,
+        "epid": 13,
+        "scale_factor": 9.330381897919121,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Charles Darwin Middle School",
+        "max_score": 14500,
+        "max_pods": 76,
+        "max_time": 682,
+        "epid": 14,
+        "scale_factor": 8.647786952095137,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Dizzy World",
+        "max_score": 17017,
+        "max_pods": 122,
+        "max_time": 705,
+        "epid": 15,
+        "scale_factor": 8.913522030619491,
+        "pod_factor": 1.262065227232222,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Sunny Bridges Auditorium",
+        "max_score": 12711,
+        "max_pods": 97,
+        "max_time": 685,
+        "epid": 16,
+        "scale_factor": 8.621194040588406,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Jungle Training Area",
+        "max_score": 10500,
+        "max_pods": 84,
+        "max_time": 575,
+        "epid": 17,
+        "scale_factor": 8.382126016514373,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Loch Mess (New)",
+        "max_score": 8000,
+        "max_pods": 53,
+        "max_time": 367,
+        "epid": 18,
+        "scale_factor": 8.113139367178459,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Loch Mess (Old)",
+        "max_score": 7647,
+        "max_pods": 53,
+        "max_time": 367,
+        "epid": 18,
+        "scale_factor": 8.113139367178459,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "The Fissure",
+        "max_score": 17895,
+        "max_pods": 115,
+        "max_time": 677,
+        "epid": 19,
+        "scale_factor": 8.96450334377136,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Cutts and Bruises Skate Park",
+        "max_score": 9032,
+        "max_pods": 49,
+        "max_time": 347,
+        "epid": 20,
+        "scale_factor": 8.280693578945383,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Sand Castle (New)",
+        "max_score": 27500,
+        "max_pods": 156,
+        "max_time": 1257,
+        "epid": 21,
+        "scale_factor": 9.367066898499985,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Sand Castle (Old)",
+        "max_score": 26775,
+        "max_pods": 156,
+        "max_time": 1257,
+        "epid": 21,
+        "scale_factor": 9.367066898499985,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Crystalline Caverns",
+        "max_score": 11000,
+        "max_pods": 50,
+        "max_time": 702,
+        "epid": 22,
+        "scale_factor": 8.401840829134384,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Construction Site",
+        "max_score": 24941,
+        "max_pods": 81,
+        "max_time": 1082,
+        "epid": 23,
+        "scale_factor": 9.295800242588738,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Hani-Baba Temple",
+        "max_score": 22000,
+        "max_pods": 69,
+        "max_time": 825,
+        "epid": 24,
+        "scale_factor": 9.133000406745746,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Tyrannical Gardens",
+        "max_score": 46758,
+        "max_pods": 123,
+        "max_time": 1590,
+        "epid": 25,
+        "scale_factor": 9.924523255641976,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Skypad Space Port",
+        "max_score": 37098,
+        "max_pods": 220,
+        "max_time": 1750,
+        "epid": 26,
+        "scale_factor": 9.693329362883592,
+        "pod_factor": 1.7600011112671947,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Nowhere Triangle",
+        "max_score": 25500,
+        "max_pods": 97,
+        "max_time": 640,
+        "epid": 27,
+        "scale_factor": 9.297791938325084,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "The Canopy",
+        "max_score": 32706,
+        "max_pods": 75,
+        "max_time": 1167,
+        "epid": 28,
+        "scale_factor": 9.567316195809651,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Monkey Summit",
+        "max_score": 45949,
+        "max_pods": 59,
+        "max_time": 925,
+        "epid": 29,
+        "scale_factor": 9.90720555811656,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Dinosaur Graveyard (New)",
+        "max_score": 20000,
+        "max_pods": 87,
+        "max_time": 587,
+        "epid": 30,
+        "scale_factor": 9.033013009958553,
+        "pod_factor": 1.2139492602059367,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Dinosaur Graveyard (Old)",
+        "max_score": 19180,
+        "max_pods": 87,
+        "max_time": 587,
+        "epid": 30,
+        "scale_factor": 9.033013009958553,
+        "pod_factor": 1.2139492602059367,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Inferno Fields",
+        "max_score": 70835,
+        "max_pods": 89,
+        "max_time": 1370,
+        "epid": 31,
+        "scale_factor": 10.339699286891717,
+        "pod_factor": 1.2418629664643412,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Dark Tree Clearing",
+        "max_score": 66000,
+        "max_pods": 168,
+        "max_time": 1372,
+        "epid": 32,
+        "scale_factor": 10.268042998492291,
+        "pod_factor": 1.2071856457851444,
+        "time_factor": 1.0
+    },
+    {
+        "iz_name": "Green Gullet",
+        "max_score": 49101,
+        "max_pods": 74,
+        "max_time": 652,
+        "epid": 33,
+        "scale_factor": 9.972844398130212,
+        "pod_factor": 1.2,
+        "time_factor": 1.0
+    }
+]
