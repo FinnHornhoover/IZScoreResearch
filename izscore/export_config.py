@@ -6,7 +6,7 @@ from argparse import ArgumentParser, Namespace
 
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.widgets import Slider, Button
+from matplotlib.widgets import Slider, Button, TextBox
 
 
 RANK_COEF = [0.8, 0.7, 0.5, 0.3, 0.29]
@@ -73,6 +73,7 @@ def get_values_for_iz(params: Dict[str, Any], iz_name: str) -> Dict[str, Any]:
     ax_fm.set_ylabel('Fusion Matter')
 
     fig.subplots_adjust(bottom=0.3)
+    fig.canvas.mpl_disconnect(fig.canvas.manager.key_press_handler_id)
 
     istride = p.shape[0] // 3
     jstride = t.shape[0] // 4
@@ -101,9 +102,13 @@ def get_values_for_iz(params: Dict[str, Any], iz_name: str) -> Dict[str, Any]:
     reset_button_ax = fig.add_axes([0.8, 0.025, 0.1, 0.03])
     reset_button = Button(reset_button_ax, 'Reset', color=widget_color, hovercolor='0.975')
 
-    def sliders_on_changed(event):
+    ms_box_ax = fig.add_axes([0.2, 0.025, 0.1, 0.03])
+    ms_box = TextBox(ms_box_ax, 'MaxScore', initial=str(max_score), hovercolor='0.975', label_pad=0.15)
+    current_max_score = [max_score]
+
+    def sliders_on_changed(val):
         plots[0].remove()
-        score_pred = predict_score(max_score, max_pods, max_time, pp, tt, sf_slider.val, pf_slider.val, tf_slider.val)
+        score_pred = predict_score(current_max_score[0], max_pods, max_time, pp, tt, sf_slider.val, pf_slider.val, tf_slider.val)
         plots[0] = ax.plot_surface(pp, tt, score_pred, cmap=plt.cm.coolwarm)
 
         plots[1][0].remove()
@@ -127,15 +132,31 @@ def get_values_for_iz(params: Dict[str, Any], iz_name: str) -> Dict[str, Any]:
     tf_slider.on_changed(sliders_on_changed)
 
     def reset_button_on_clicked(mouse_event):
+        ms_box.set_val(str(max_score))
+        current_max_score[0] = max_score
         sf_slider.reset()
         pf_slider.reset()
         tf_slider.reset()
 
     reset_button.on_clicked(reset_button_on_clicked)
 
+    def textbox_on_submit(text):
+        try:
+            box_val = int(text)
+            if box_val < 0:
+                raise ValueError('Negative!')
+            current_max_score[0] = box_val
+        except ValueError:
+            ms_box.set_val(str(current_max_score[0]))
+
+        sliders_on_changed(-1)
+
+    ms_box.on_submit(textbox_on_submit)
+
     plt.show()
 
     out_param.update({
+        'ScoreCap': current_max_score[0],
         'ScaleFactor': sf_slider.val,
         'PodFactor': pf_slider.val,
         'TimeFactor': tf_slider.val,
