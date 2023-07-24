@@ -103,7 +103,7 @@ def get_values_for_iz(params: Dict[str, Any], iz_name: str) -> Dict[str, Any]:
     reset_button = Button(reset_button_ax, 'Reset', color=widget_color, hovercolor='0.975')
 
     ms_box_ax = fig.add_axes([0.2, 0.025, 0.1, 0.03])
-    ms_box = TextBox(ms_box_ax, 'MaxScore', initial=str(max_score), hovercolor='0.975', label_pad=0.15)
+    ms_box = TextBox(ms_box_ax, 'MaxScore', initial=str(max_score), color=widget_color, hovercolor='0.975', label_pad=0.15)
     current_max_score = [max_score]
 
     def sliders_on_changed(val):
