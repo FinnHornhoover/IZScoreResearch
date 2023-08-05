@@ -153,6 +153,10 @@ def test_points(visualize=False):
             ban_mask[banned_points[k]] = 0
             mask = mask & ban_mask
 
+        if mask.sum() == 0:
+            print(k, 'not enough points, skipping...')
+            continue
+
         clf = LinearRegression(fit_intercept=False)
         clf.fit(x[mask, :], y[mask])
 

@@ -163,3 +163,4 @@ cython_debug/
 .vscode/
 izscore/data/ffpages/http*
 *.xlsx
+repro.py
