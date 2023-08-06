@@ -121,7 +121,7 @@ In this repository, you can find the following in the `data/` directory, which y
 
 # Acknowledgements
 
-Special thanks to [OpenFusionProject](https://github.com/OpenFusionProject) contributors for their support and suggestions.
+This project wouldn't have been possible without the racers of FusionFall, especially those who recorded and uploaded their races. Also special thanks to [OpenFusionProject](https://github.com/OpenFusionProject) contributors for their support and suggestions.
 
 # Contributing
 
